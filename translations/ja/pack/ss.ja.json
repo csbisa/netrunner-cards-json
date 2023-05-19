@@ -1,0 +1,142 @@
+[
+  {
+    "code": "21001",
+    "flavor": null,
+    "keywords": "Priority - Sabotage",
+    "text": "Play only as your first [click].\nFor the remainder of the turn, whenever you access a card not in Archives, trash it and suffer 1 meat damage.",
+    "title": "By Any Means"
+  },
+  {
+    "code": "21002",
+    "flavor": null,
+    "keywords": "Icebreaker - Fracter - Virus",
+    "text": "Whenever you make a successful run, you may place 1 virus counter on this program.\nInterface → <strong>Any virus counter:</strong> Break 1 <strong>barrier</strong> subroutine.\n<strong>Any virus counter:</strong> +1 strength.",
+    "title": "Yusuf"
+  },
+  {
+    "code": "21003",
+    "flavor": "Mounted holistic lenses download, recompile, and broadcast data faster than a corporate cover-up.",
+    "keywords": "Console",
+    "text": "+2[mu]\nWhenever a Corp card is exposed, you may gain 1[credit].\nLimit 1 <strong>console</strong> per player.",
+    "title": "Zamba"
+  },
+  {
+    "code": "21004",
+    "flavor": null,
+    "keywords": "Icebreaker - Killer",
+    "text": "This program gets +1 strength and costs +1[mu] for each hosted power counter.\nInterface → <strong>1[credit]:</strong> Break 1 <strong>sentry</strong> subroutine.\n<strong>2[credit]:</strong> +1 strength.\n<strong>[click]:</strong> Place 1 power counter on this program or remove 1 hosted power counter.",
+    "title": "Puffer"
+  },
+  {
+    "code": "21005",
+    "flavor": "Brought up in the slums of Jinja, Lewi made his fortune through back alley deals, well-placed bets, and savvy showmanship.",
+    "keywords": "Connection",
+    "text": "When your turn begins, either lose 1[credit] or trash Lewi Guilherme.\nThe Corp's maximum hand size is reduced by 1.",
+    "title": "Lewi Guilherme"
+  },
+  {
+    "code": "21006",
+    "flavor": "Optical computing still has its uses. But it's hard to explain them to people whose eyes glaze over when you bring up the double-slit experiment.",
+    "keywords": "Chip",
+    "text": "+1[mu]\nThe first time each turn you fully break a piece of ice, gain 1[credit].",
+    "title": "Cyberdelia"
+  },
+  {
+    "code": "21007",
+    "flavor": "New life through new understanding.",
+    "keywords": null,
+    "text": "Whenever you make a successful run on R&D, you may place 1 power counter on Upya.\n<strong>[click], 3 hosted power counters</strong>: Gain [click][click]. Use this ability only once per turn.",
+    "title": "Upya"
+  },
+  {
+    "code": "21008",
+    "flavor": "\"Its only function seems to be repurposing code.\"\n\"Can you kill it?\" she asked.\n\"I can try,\" he said. Guiding his program dead center of the mass, he plunged, piercing the shell before an eruption sent his screen into static. He jacked out, his eyes wide. \"I... I think it absorbed my breaker. And everything else.\"",
+    "keywords": "Virtual",
+    "text": "[click],[click]: Turn one of your facedown installed cards faceup. If that card is an event, trash it.",
+    "title": "Assimilator"
+  },
+  {
+    "code": "21009",
+    "flavor": null,
+    "keywords": "Division",
+    "text": "The first time each turn you install a card, you may install 1 non-agenda card from HQ in the root of or protecting the same server.",
+    "title": "Asa Group: Security Through Vigilance"
+  },
+  {
+    "code": "21010",
+    "flavor": "\"The average citizen of Nairobi speaks six languages. Every culture, language, ethnicity of the east of Africa collides here, collapses together. What happens slowly by nature can happen quickly in our lab. We will bring peace.\" - Dr. Muchina, Project Lead",
+    "keywords": "Security",
+    "text": "As an additional cost to steal Ikawah Project, the Runner must spend [click] and 2[credit].",
+    "title": "Ikawah Project"
+  },
+  {
+    "code": "21011",
+    "flavor": "Earth and Sun, together as one.",
+    "keywords": "Barrier - Bioroid",
+    "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] End the run.\n[subroutine] End the run.",
+    "title": "Najja 1.0"
+  },
+  {
+    "code": "21012",
+    "flavor": null,
+    "keywords": "Ambush",
+    "text": "Gene Splicer can be advanced.\nWhen the Runner accesses Gene Splicer, do 1 net damage for each advancement token on Gene Splicer.\n<strong>[click], 3 hosted advancement tokens:</strong> Add Gene Splicer to your score area as an agenda worth 1 agenda point.",
+    "title": "Gene Splicer"
+  },
+  {
+    "code": "21013",
+    "flavor": "Thin enough to pierce netspace. Deadly enough to pierce your mind.",
+    "keywords": "Trap - Psi - AP",
+    "text": "[subroutine] You and the Runner secretly spend 0[credit], 1[credit] or 2[credit]. Reveal spent credits. If you and the Runner spend a different number of credits, do 2 net damage; otherwise do 1 net damage. Trash Mganga.",
+    "title": "Mganga"
+  },
+  {
+    "code": "21014",
+    "flavor": "Sometimes you have to break a few eggs to sequence a genome.",
+    "keywords": null,
+    "text": "Trash the top 2 cards of R&D, then shuffle up to 4 cards from Archives into R&D. Remove Genotyping from the game instead of trashing it.",
+    "title": "Genotyping"
+  },
+  {
+    "code": "21015",
+    "flavor": "\"Capitalism runs on two things: amplified arrogance and censored dissent. With those, a corp can create any environment it wants.\" - Freedom Khumalo",
+    "keywords": null,
+    "text": "[click], [click], [click]: Add Echo Chamber to your score area as an agenda worth 1 agenda point.",
+    "title": "Echo Chamber"
+  },
+  {
+    "code": "21016",
+    "flavor": "Our patented ClearMind™ technology pacifies the trials and tribulations of everyday life.",
+    "keywords": "Gray Ops",
+    "text": "Play only if the Runner is tagged.\nAdd 2 installed Runner cards to the grip.",
+    "title": "Self-Growth Program"
+  },
+  {
+    "code": "21017",
+    "flavor": "\"Once every week, we perform a drill. Except, I'm the only one who knows it's a drill.\"",
+    "keywords": "Off-site",
+    "text": "Remote server only.\n<strong>[trash]:</strong> Place 1 advancement counter on a card installed in the root of this server.",
+    "title": "Calibration Testing"
+  },
+  {
+    "code": "21018",
+    "flavor": null,
+    "keywords": "Hostile",
+    "text": "Place 3 power counters on Urban Renewal when it is rezzed. When there are no power counters left on Urban Renewal, trash it and do 4 meat damage.\nWhen your turn begins, remove 1 power counter from Urban Renewal.",
+    "title": "Urban Renewal"
+  },
+  {
+    "code": "21019",
+    "flavor": null,
+    "keywords": "Reprisal - Gray Ops",
+    "text": "Play only if the Runner trashed a Corp card during their last turn.\nChoose 1 installed piece of hardware or non-<strong>virtual</strong> resource. The Runner must either trash that card or suffer 4 meat damage.\nRemove this operation from the game.",
+    "title": "Wake Up Call"
+  },
+  {
+    "code": "21020",
+    "flavor": null,
+    "keywords": null,
+    "text": "Whenever the Runner suffers any amount of meat damage, you may place 1 advancement token on Reconstruction Contract.\n[trash]: Move any number of advancement tokens from Reconstruction Contract to a card that can be advanced.",
+    "title": "Reconstruction Contract"
+  }
+]
