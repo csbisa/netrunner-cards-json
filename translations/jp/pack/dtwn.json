@@ -1,0 +1,142 @@
+[
+  {
+    "code": "21021",
+    "flavor": "The system is so deeply rooted, who knows how far the cables run?",
+    "keywords": null,
+    "text": "Whenever the Corp purges virus counters, you may gain 1[credit] for each virus counter removed and trash Acacia.",
+    "title": "Acacia"
+  },
+  {
+    "code": "21022",
+    "flavor": "Embedded in the mainframe, it proliferates and devours with each agitation.",
+    "keywords": "Virus",
+    "text": "When you install Plague, choose a server.\nWhenever you make a successful run on the chosen server, you may place 2 virus counters on Plague.",
+    "title": "Plague"
+  },
+  {
+    "code": "21023",
+    "flavor": "The gap of 0.19 seconds was all he needed.",
+    "keywords": null,
+    "text": "Play only if you made a successful run on a central server this turn.\nInstall a card from your grip, lowering its install cost by 8[credit], and take 1 tag.",
+    "title": "Credit Kiting"
+  },
+  {
+    "code": "21024",
+    "flavor": "\"He's probably the best pet I've ever had but I'd still trade him for something better.\" - 419",
+    "keywords": null,
+    "text": "The first time you make a successful run on HQ each turn, you may trash Wari to name <strong>sentry</strong>, <strong>code gate</strong> or <strong>barrier</strong>. Expose a piece of ice, then add it to HQ if it has the named subtype.",
+    "title": "Wari"
+  },
+  {
+    "code": "21025",
+    "flavor": null,
+    "keywords": "G-mod",
+    "text": "[click]: Search your stack for a non-<strong>virus</strong> program and install it, lowering its install cost by 1[credit], then shuffle your stack. If that program is still installed when your turn ends, remove it from the game.",
+    "title": "Kabonesa Wu: Netspace Thrillseeker"
+  },
+  {
+    "code": "21026",
+    "flavor": "When standard breaking just doesn't cut it.",
+    "keywords": null,
+    "text": "Whenever you fully break a piece of ice, you may place 1 power counter on this program.\n<strong>2 hosted power counters:</strong> Choose 1 installed non-<strong>AI</strong> <strong>icebreaker</strong>. That <strong>icebreaker</strong> gets +3 strength for the remainder of the current encounter.",
+    "title": "Takobi"
+  },
+  {
+    "code": "21027",
+    "flavor": "A winged terror, the Kongamato dives from above, rending its prey in one ferocious bite.",
+    "keywords": "Virtual",
+    "text": "[trash]: Break the first subroutine on the encountered piece of ice.",
+    "title": "Kongamato"
+  },
+  {
+    "code": "21028",
+    "flavor": null,
+    "keywords": "Double",
+    "text": "As an additional cost to play this event, spend [click].\nTrash any number of programs and/or pieces of hardware from your grip. Search your stack for 1 program or piece of hardware. Install it, paying X[credit] less. X is equal to the total install cost of the trashed cards.",
+    "title": "Emergent Creativity"
+  },
+  {
+    "code": "21029",
+    "flavor": "Between nothing and infinity.",
+    "keywords": null,
+    "text": "The first time you make a successful run on HQ or R&D each turn, you may name a number. If you do, reveal the next card that you access this run. If it has a rez cost, play cost, or advancement requirement equal to the named number, either gain 3[credit] or draw 2 cards.",
+    "title": "RNG Key"
+  },
+  {
+    "code": "21030",
+    "flavor": "Witchcraft to the nescient; beauty to the wise.",
+    "keywords": "Code Gate",
+    "text": "[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn.\n[subroutine] The Runner loses [click], if able. You have an additional [click] to spend during your next turn.",
+    "title": "Nightdancer"
+  },
+  {
+    "code": "21031",
+    "flavor": "\"The site of the world's second beanstalk, or I'll die trying.\" - Miria Byanyima, Director of VSEP",
+    "keywords": "Region",
+    "text": "Whenever you draw a piece of ice, you may reveal it and install it protecting this server, paying 4[credit] less.\nLimit 1 <strong>region</strong> per server.",
+    "title": "Jinja City Grid"
+  },
+  {
+    "code": "21032",
+    "flavor": "\"Starving, dehydrated, delirious, I picked a direction and ran, ran for days, maybe even weeks. I ran until my legs couldn't carry me. Then I crawled. When I was finally out, finally free of the shroud, I checked the time, the date. How long had I been gone, trapped in the all-encompassing blackness? Turns out, 3 minutes.\"",
+    "keywords": "Trap",
+    "text": "[subroutine] Trash the top 3 cards of the stack. Trash Aimor.",
+    "title": "Aimor"
+  },
+  {
+    "code": "21033",
+    "flavor": null,
+    "keywords": "Research",
+    "text": "When Bacterial Programming is scored or stolen, you may look at the top 7 cards of R&D, add any number of them to HQ, trash any number of them, and arrange the rest in any order.",
+    "title": "Bacterial Programming"
+  },
+  {
+    "code": "21034",
+    "flavor": "\"It wasn't until the spots cleared that I realized half of my rig was gone.\" - Kabonesa Wu",
+    "keywords": "Sentry",
+    "text": "When the Runner encounters this ice, they cannot install cards for the remainder of the turn.\n[subroutine] Choose 2 installed Runner cards, if able. The Runner must add 1 of the chosen cards to the top of the stack.",
+    "title": "Jua"
+  },
+  {
+    "code": "21035",
+    "flavor": null,
+    "keywords": "Reprisal - Gray Ops",
+    "text": "Play only if the Runner trashed a Corp card during their last turn.\nChoose 1 installed Runner card. The Runner must take 2 tags or add that card to the top of the stack.\nRemove this operation from the game.",
+    "title": "Threat Assessment"
+  },
+  {
+    "code": "21036",
+    "flavor": "He found it odd that three frozen yogurt shops, all less than a block from his, opened within the same week.",
+    "keywords": "Gray Ops",
+    "text": "Play only if the Runner made a successful run during their last turn.\nIf the Runner has at least 4[credit], they lose 4[credit].",
+    "title": "Economic Warfare"
+  },
+  {
+    "code": "21037",
+    "flavor": null,
+    "keywords": "Ambush",
+    "text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade anywhere except in Archives, Trace[3]. If successful, give the Runner 2 tags.",
+    "title": "Forced Connection"
+  },
+  {
+    "code": "21038",
+    "flavor": null,
+    "keywords": "Initiative",
+    "text": "When this agenda is scored or stolen, place 9[credit] on it.\nWhen the Corp's turn begins, they may take 3[credit] from this agenda. This ability is active even while this agenda is in the Runner's score area.",
+    "title": "SSL Endorsement"
+  },
+  {
+    "code": "21039",
+    "flavor": "\"Who knew non-profits could be so profitable?\"",
+    "keywords": null,
+    "text": "NGO Front can be advanced.\n[trash],<strong>1 hosted advancement token</strong>: Gain 5[credit].\n[trash],<strong>2 hosted advancement tokens</strong>: Gain 8[credit].",
+    "title": "NGO Front"
+  },
+  {
+    "code": "21040",
+    "flavor": "\"Food. Drinks. Entertainment. It doesn't take much to gratify the bourgeoisie.\"",
+    "keywords": null,
+    "text": "The Runner gains 2[credit]. Trash up to 2 cards from HQ, then shuffle up to 2 cards from Archives into R&D. Remove Distract the Masses from the game instead of trashing it.",
+    "title": "Distract the Masses"
+  }
+]
