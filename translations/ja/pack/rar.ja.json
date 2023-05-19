@@ -1,408 +1,408 @@
 [
   {
     "code": "22001",
-    "flavor": "\"Damn, I'm good.\"",
-    "keywords": "Natural",
-    "text": "When your turn begins, gain 1[credit] if you have 2 or fewer cards in your grip.",
+    "flavor": null,
+    "keywords": "ナチュラル",
+    "text": "君のターン開始時、グリップのカードが2枚以下しかない場合、1[credit]を得る。",
     "title": "Nathaniel \"Gnat\" Hall: One-of-a-Kind"
   },
   {
     "code": "22002",
-    "flavor": "All roads lead to Rome.",
-    "keywords": "Run",
-    "text": "Run Archives. If successful, after breaching Archives, breach HQ, then breach R&D. You cannot access cards in the root of HQ or R&D during these breaches.",
+    "flavor": null,
+    "keywords": "ラン",
+    "text": "アーカイブにランを行う。成功した場合、アーカイブへのアクセス後、HQのカード1枚にアクセスし、そしてR&Dの一番上のカードにアクセスする。",
     "title": "Divide and Conquer"
   },
   {
     "code": "22003",
-    "flavor": "\"Worth it.\"",
+    "flavor": null,
     "keywords": null,
-    "text": "Trash your grip.\nGain 10[credit].",
+    "text": "グリップをトラッシュする。\n10[credit]を得る。",
     "title": "Guinea Pig"
   },
   {
     "code": "22004",
     "flavor": null,
-    "keywords": "Console",
-    "text": "+1[mu]\n[interrupt] → Whenever you would play or install a card, you may trash 1 card from your grip. If you do, instead play or install that card paying 2[credit] less. Use this ability only once per turn.\nLimit 1 <strong>console</strong> per player.",
+    "keywords": "コンソール",
+    "text": "+1[mu]\n1ターンに1度、君がカードを1枚プレイしようとするかインストールしようとする時、グリップのカードを1枚トラッシュすることで、そのプレイコストかインストールコストを2下げてよい。\n各プレイヤーの<strong>コンソール</strong>は1つまで。",
     "title": "Patchwork"
   },
   {
     "code": "22005",
     "flavor": null,
     "keywords": null,
-    "text": "Whenever the Corp creates a server, they lose 1[credit].\nWhenever you make a successful run on Archives, you may trash this hardware. If you do, the Corp loses 3[credit].",
+    "text": "コーポがサーバーを1つ作るたび、そのコーポは1[credit]を失う。\nアーカイブへのランが成功するたび、Hijacked Routerをトラッシュすることで、コーポに3[credit]を失わせてよい。",
     "title": "Hijacked Router"
   },
   {
     "code": "22006",
-    "flavor": "... clack... clack... clack...",
-    "keywords": "Icebreaker - Decoder",
-    "text": "This program gets -1 strength for each card in your grip.\nInterface → <strong>2[credit]:</strong> Break any number of <strong>code gate</strong> subroutines.",
+    "flavor": null,
+    "keywords": "アイスブレイカー - デコーダー",
+    "text": "グリップのカード1枚につきCradleは強度-1。\n<strong>2[credit]</strong>：<strong>コードゲート</strong>のサブルーチンを任意の数だけブレイクする。",
     "title": "Cradle"
   },
   {
     "code": "22007",
-    "flavor": "Another man's treasure.",
-    "keywords": "Location - Seedy",
-    "text": "The first time each turn a program or a piece of hardware is trashed (from any location), you may place 1 power counter on District 99.\n[click], <strong>3 hosted power counters</strong>: Add a card that matches the faction of your identity from your heap to your grip.",
+    "flavor": null,
+    "keywords": "場所 - 裏世界",
+    "text": "各ターン、最初にプログラム1つかハードウェア1つが（どこからであれ）トラッシュされた時、District 99にパワーカウンターを1つ置いてよい。\n[click], <strong>搭載されているパワーカウンター3つ</strong>：ヒープにある、君のIDと派閥の一致するカードを1枚グリップに加える。",
     "title": "District 99"
   },
   {
     "code": "22008",
-    "flavor": "\"You think you're the first to come after me?\"",
-    "keywords": "G-mod",
-    "text": "The first time you make a successful run on a central server each turn, draw 2 cards and take 1 tag.",
+    "flavor": null,
+    "keywords": "G-モード",
+    "text": "各ターン、最初に中央サーバーへのランが成功した時、カードを2枚引きタグを1つ受ける。",
     "title": "Liza Talking Thunder: Prominent Legislator"
   },
   {
     "code": "22009",
-    "flavor": "\"We have you surrounded! For real, this time.\"",
-    "keywords": "Run",
-    "text": "Make a run on HQ. If successful, gain 9[credit] and take 1 tag.",
+    "flavor": null,
+    "keywords": "ラン",
+    "text": "HQにランを行う。成功した場合、9[credit]を得てタグを1つ受ける。",
     "title": "Hot Pursuit"
   },
   {
     "code": "22010",
     "flavor": null,
-    "keywords": "Console",
-    "text": "+1[mu]\nThe first time you make a successful run each turn, you may gain 1[credit] and look at the top card of your stack. If you do, you may add that card to the bottom of your stack.\nLimit 1 <strong>console</strong> per player.",
+    "keywords": "コンソール",
+    "text": "+1[mu]\n各ターン、最初にランが成功した時、「1[credit]を得て、スタックの一番上のカードを見る」をしてよい。そうした場合、スタックの一番下にそのカードを加えてよい。\n各プレイヤーの<strong>コンソール</strong>は1つまで。",
     "title": "Paragon"
   },
   {
     "code": "22011",
-    "flavor": "\"With the rise of crypto, banking has become much more complicated. Financial crime has not only kept pace, but exploded exponentially.\"\n-After the Flash: A History of the War-That-Wasn't",
+    "flavor": null,
     "keywords": null,
-    "text": "Whenever you make a successful run, you may place 1[credit] from the bank on Bankroll.\n[trash]: Take all credits from Bankroll.",
+    "text": "ランが成功するたび、Bankrollにバンクからの1[credit]を載せてよい。\n[trash]：Bankroll から全てのクレジットを受け取る。",
     "title": "Bankroll"
   },
   {
     "code": "22012",
-    "flavor": "\"Any piece of ice is really just a paywall.\"\n-Liza Talking Thunder",
-    "keywords": "Icebreaker - Fracter",
-    "text": "Interface → <strong>1[credit]:</strong> Break up to 2 <strong>barrier</strong> subroutines.\n<strong>2[credit]:</strong> +3 strength.\nWhenever an encounter ends, if you used this program to break a subroutine during that encounter, the Corp gains 2[credit].",
+    "flavor": null,
+    "keywords": "アイスブレイカー - フラクター",
+    "text": "Tycoonを使って1つでもサブルーチンをブレイクしたアイスとのエンカウントが終了するたび、コーポは2[credit]を得る。\n<strong>1[credit]</strong>：バリアのサブルーチンを2つまでブレイクする。\n<strong>2[credit]</strong>：強度+3。",
     "title": "Tycoon"
   },
   {
     "code": "22013",
-    "flavor": "A classy alibi.",
-    "keywords": "Location - Ritzy",
-    "text": "The first time you avoid or remove a tag each turn, you may install a card from your grip, lowering its install cost by 1.",
+    "flavor": null,
+    "keywords": "場所 - Ritzy",
+    "text": "各ターン、最初にタグを1つでも回避するか取り除いた時、グリップのカード1枚をインストールコストを1下げてインストールしてよい。",
     "title": "Thunder Art Gallery"
   },
   {
     "code": "22014",
-    "flavor": "\"If I can't kill it, I know who can.\"",
-    "keywords": "Connection",
-    "text": "Place 12[credit] from the bank on Miss Bones when she is installed. When there are no credits left on Miss Bones, trash her.\nUse these credits to trash installed cards.",
+    "flavor": null,
+    "keywords": "コネ",
+    "text": "Miss Bonesをインストールした時、彼女の上に12[credit]を置く。Miss Bonesの上にクレジットが残っていない時、彼女をトラッシュする。\nこのクレジットは、インストール状態のカードをトラッシュするのに使用する。",
     "title": "Miss Bones"
   },
   {
     "code": "22015",
     "flavor": null,
-    "keywords": "Clone",
-    "text": "Whenever you breach R&D, you and the Corp secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Corp spent the same number of credits, access 1 additional card.",
+    "keywords": "クローン",
+    "text": "R&Dのカード群にアクセスするたび、君とコーポは0[credit]か1[credit]か2[credit]を秘密裏に支払う。支払ったクレジットを公開する。君とコーポが同一の額のクレジットを支払っていた場合、R&Dのカードに追加で1枚アクセスする。",
     "title": "Akiko Nisei: Head Case"
   },
   {
     "code": "22016",
     "flavor": null,
-    "keywords": "Double",
-    "text": "As an additional cost to play this event, spend [click].\nThe Corp may look at the top 4 cards of R&D and arrange them in any order.\nReveal the top 4 cards of R&D.",
+    "keywords": "ダブル",
+    "text": "このイベントをプレイする追加コストとして[click]を消費する。\nコーポは「R&D の一番上から4枚のカードを見て、それらを望む順番で組み替える」をしてよい。\nR&Dの一番上から4枚のカードを公開する。",
     "title": "Insight"
   },
   {
     "code": "22017",
     "flavor": null,
-    "keywords": "Console",
-    "text": "+1[mu]\nWhenever you make a successful run on R&D, you may place 1 power counter on this hardware.\n<strong>[click]</strong>, <strong>3 hosted power counters:</strong> Breach R&D. You cannot access cards in the root of R&D during this breach.\nLimit 1 <strong>console</strong> per player.",
+    "keywords": "コンソール",
+    "text": "+1[mu]\nR&Dへのランが成功するたび、Mind's Eyeにパワーカウンターを1つ置いてよい。\n<strong>[click], 搭載されているパワーカウンター3つ</strong>：R&Dの一番上のカードにアクセスする。\n各プレイヤーの<strong>コンソール</strong>は 1 つまで。",
     "title": "Mind's Eye"
   },
   {
     "code": "22018",
-    "flavor": "\"What are you making?\"\n\"What <em>aren't</em> I making?\"",
+    "flavor": null,
     "keywords": null,
-    "text": "The first time you trash an accessed card each turn, you may place power counters on Mâché equal to that card's trash cost.\n<strong>3 hosted power counters</strong>: Draw 1 card.",
+    "text": "各ターン、アクセス中のカードを最初にトラッシュした時、そのカードのトラッシュコストと同じだけのパワーカウンターをMâchéに載せてよい。\n<strong>搭載されているパワーカウンター3つ</strong>：カードを1枚引く。",
     "title": "Mâché"
   },
   {
     "code": "22019",
-    "flavor": "\"Running is all metaphor, all symbols and plumbing into the depths of the psyche. Sometimes that means tentacles.\" -Akiko Nisei",
-    "keywords": "Icebreaker - Killer - Trojan",
-    "text": "<strong>2[credit]:</strong> Host this program on a piece of ice.\nInterface → <strong>1[credit]:</strong> Break up to 2 subroutines on host <strong>sentry</strong>.\n<strong>2[credit]:</strong> +3 strength.",
+    "flavor": null,
+    "keywords": "アイスブレイカー - キラー - Trojan",
+    "text": "<strong>2[credit]</strong>：Ikaをアイス1つの上に搭載する。\n<strong>1[credit]</strong>：ホストのセントリーのサブルーチンを2つまでブレイクする。\n<strong>2[credit]</strong>：強度 +3 。",
     "title": "Ika"
   },
   {
     "code": "22020",
-    "flavor": "The journey is its own reward.",
+    "flavor": null,
     "keywords": "Trojan",
-    "text": "Install only on a piece of ice.\nWhenever you pass host ice, gain 2[credit].",
+    "text": "Kyubanはアイス1枚の上にのみインストールする。ホストのアイスを通過するたび、2[credit]得る。",
     "title": "Kyuban"
   },
   {
     "code": "22021",
-    "flavor": "\"Breathe, girl. Breathe.\" Mike flickered into focus as she brushed Akiko's tears away. \"What did you see?\"\n\"I...\" Akiko hesitated. \"Everything.\"",
-    "keywords": "Connection",
-    "text": "The first time each turn a successful run on R&D ends, you may gain 1[credit] for each time you accessed a card in R&D during that run.",
+    "flavor": null,
+    "keywords": "コネ",
+    "text": "各ターン、最初に成功したR&Dへのランが終了した時、アクセスされたR&Dのカード1枚につき1[credit]を得てよい。",
     "title": "Psych Mike"
   },
   {
     "code": "22022",
-    "flavor": "\"When we're together, I feel like I can do anything!\"",
+    "flavor": null,
     "keywords": null,
-    "text": "When your turn begins, you may pay 2[credit] to gain [click]. If you do, trash Algernon when your turn ends if you did not make a successful run this turn.",
+    "text": "君のターン開始時、2[credit]を支払うことで、[click]を得てよい。そうした場合、君のターン終了時、このターンに君がランを成功させていない場合、Algernonをトラッシュする。",
     "title": "Algernon"
   },
   {
     "code": "22023",
-    "flavor": "I LIVE AGAIN",
-    "keywords": "Run",
-    "text": "Run Archives. If successful, instead of breaching Archives, install up to 5 cards from your heap facedown.\nRemove this event from the game.",
+    "flavor": null,
+    "keywords": "ラン",
+    "text": "アーカイブへランを行う。成功した場合、カード群にアクセスするかわりに、ヒープのカードを5枚まで裏向きにインストールする。Rebootをトラッシュするかわりにゲームから取り除く。",
     "title": "Reboot"
   },
   {
     "code": "22024",
-    "flavor": "\"So, Miriam, hear anything good lately?\"",
+    "flavor": null,
     "keywords": null,
-    "text": "Reduce the play cost of Office Supplies by 1 for each [link] you have.\nGain 4[credit] or draw 4 cards.",
+    "text": "君のリンク強度1につきOffice Suppliesのプレイコストは1減る。\n4[credit]得るかカードを4枚引く。",
     "title": "Office Supplies"
   },
   {
     "code": "22025",
     "flavor": null,
-    "keywords": "Connection",
-    "text": "Host a <strong>g-mod</strong> identity that does not match the faction of your identity on DJ Fenris when he is installed. Remove hosted identity from the game if DJ Fenris is uninstalled.\nDJ Fenris gains the text of hosted identity.\nLimit 1 per deck.",
+    "keywords": "コネ",
+    "text": "DJ Fenris がインストールされた時、君のIDと派閥が異なる<strong>G-モード</strong>のIDを彼の上に搭載する。DJ Fenrisがアンインストールされた場合、搭載されていたIDをゲームから取り除く。\nDJ Fenris は搭載されているIDのテキストを得る。\nデッキに1枚制限。",
     "title": "DJ Fenris"
   },
   {
     "code": "22026",
-    "flavor": "Want It More.",
-    "keywords": "Subsidiary",
-    "text": "Whenever an agenda is scored or stolen, gain 2[credit] or draw 2 cards.",
+    "flavor": null,
+    "keywords": "子会社",
+    "text": "計画書が得点されるか盗まれるたび、2[credit]を得るか、カードを2枚引く。",
     "title": "Sportsmetal: Go Big or Go Home"
   },
   {
     "code": "22027",
-    "flavor": "\"Our analysis shows significant support from both the public and private sectors.\"",
-    "keywords": "Expansion",
-    "text": "When Hyperloop Extension is scored or stolen, the Corp gains 3[credit].",
+    "flavor": null,
+    "keywords": "拡張",
+    "text": "Hyperloop Extensionが得点されるか盗まれた時、コーポは3[credit]を得る。",
     "title": "Hyperloop Extension"
   },
   {
     "code": "22028",
-    "flavor": "You don't cross it—it crosses you.",
-    "keywords": "Barrier",
-    "text": "[subroutine] Gain 4[credit] and end the run unless the Runner adds this ice to their score area as an agenda worth -1 agenda point.",
+    "flavor": null,
+    "keywords": "バリア",
+    "text": "[subroutine] ランナーがMeridianを-1計画ポイントの計画書として自分の得点エリアに加えないかぎり、コーポは4[credit]を得てランの終了。",
     "title": "Meridian"
   },
   {
     "code": "22029",
-    "flavor": "Banana who?",
-    "keywords": "Code Gate",
-    "text": "Gatekeeper has +6 strength if you rezzed it this turn.\n[subroutine] Draw up to 3 cards. Reveal up to 3 agendas in HQ and/or Archives, then shuffle those agendas into R&D.\n[subroutine] End the run.",
+    "flavor": null
+    "keywords": "コードゲート",
+    "text": "このターンに君がGatekeeperをレゾした場合、それは強度+6を持つ。\n[subroutine] 3枚までカードを引く。HQやアーカイブから合計3枚まで計画書を公開し、それら計画書をR&Dに加えてシャッフルする。\n[subroutine] ランの終了。",
     "title": "Gatekeeper"
   },
   {
     "code": "22030",
-    "flavor": "If that doesn't work, try reversing the polarity.",
+    "flavor": null,
     "keywords": null,
-    "text": "Derez any number of cards. You may rez a card, lowering its rez cost by 3 for each card that you derezzed this way.",
+    "text": "任意の数のカードをデレゾする。これにより君がデレゾしたカード1枚につきレゾコストを3下げて、カードを1枚レゾしてよい。",
     "title": "Divert Power"
   },
   {
     "code": "22031",
-    "flavor": "\"Oh, my! He's on fire!\"",
+    "flavor": null,
     "keywords": null,
-    "text": "Gain X[credit]. Draw up to X cards. Install up to X cards in the root of and/or protecting a single remote server. X is equal to the number of agendas in the Runner's score area.",
+    "text": "X[credit]を得る。X枚までカードを引く。合計X枚までのカードを1つの遠隔サーバーの中やそれを守る位置にインストールする（全てのインストールコストは払う）。Xはランナーの得点エリアにある計画書の数である。",
     "title": "Fast Break"
   },
   {
     "code": "22032",
-    "flavor": "Coach Walden's pep talks were renowned for improving in direct proportion to the amount by which his team was losing.",
+    "flavor": null,
     "keywords": null,
-    "text": "Gain [click] for each agenda in the Runner's score area. Remove Game Changer from the game instead of trashing it.",
+    "text": "ランナーの得点エリアにある計画書1つにつき[click]を1つ得る。Game Changerをトラッシュするかわりにゲームから取り除く。",
     "title": "Game Changer"
   },
   {
     "code": "22033",
-    "flavor": "The world changed. Concession prices did not.",
-    "keywords": "Facility",
-    "text": "Whenever the Runner makes a successful run on this server, end the run unless they pay 2[credit] for each agenda in their score area.",
+    "flavor": null,
+    "keywords": "施設",
+    "text": "このサーバーへの成功したランがあるたび、ランナーの得点エリアにある計画書1つにつき2[credit]をそのランナーが支払わないかぎり、ランの終了。",
     "title": "Giordano Memorial Field"
   },
   {
     "code": "22034",
     "flavor": null,
-    "keywords": "Division",
-    "text": "<strong>[click]</strong>, <strong>1[credit]:</strong> Install 1 card from HQ in the root of a remote server, then place 1 advancement counter on it. You cannot score or rez that card until your next turn begins.",
+    "keywords": "部署",
+    "text": "[click], 1[credit]：HQからカード1枚を遠隔サーバー内にインストールし、その上にアドバンストークンを1つ置く。次の君のターンが開始するまで、そのカードは得点やレゾができない。",
     "title": "Saraswati Mnemonics: Endless Exploration"
   },
   {
     "code": "22035",
-    "flavor": "\"Jumon, all too Jumon...\"",
-    "keywords": "Research",
-    "text": "When your turn ends, place 2 advancement counters on 1 card in the root of a remote server.",
+    "flavor": null,
+    "keywords": "調査",
+    "text": "君のターン終了時、サーバー内にインストールされたカード1枚にアドバンストークンを2つ置く。",
     "title": "Jumon"
   },
   {
     "code": "22036",
-    "flavor": "\"Supersedure is all part of our scheduled maintenance.\"",
-    "keywords": "Character",
-    "text": "When your turn begins, you may remove an advancement token from an installed card to gain 3[credit].",
+    "flavor": null,
+    "keywords": "人物",
+    "text": "君のターン開始時、インストール状態のカードの上からアドバンストークンを1つ取り除くことで、3[credit]を得てよい。",
     "title": "API-S Keeper Isobel"
   },
   {
     "code": "22037",
     "flavor": null,
-    "keywords": "Ambush",
-    "text": "Neurostasis can be advanced.\nIf you pay 3[credit] when the Runner accesses Neurostasis, choose 1 installed Runner card for each advancement token on Neurostasis. The Runner must shuffle the chosen cards into the stack.",
+    "keywords": "待ち伏せ",
+    "text": "Neurostasisはアドバンス可能。\nランナーがNeurostasisにアクセスした時、君が3[credit]を支払った場合、Neurostasisの上のアドバンストークン1つにつきインストール状態のランナーのカードを1つ選ぶ。ランナーは選ばれたカードをスタックに加えてシャッフルしなければならない。",
     "title": "Neurostasis"
   },
   {
     "code": "22038",
-    "flavor": "\"If the sysop offers you a link, it's because they want you to go there. But if you wanted to go where the sysop suggested, you wouldn't be trying to break in at all.\" -How Not to Get Fragged",
-    "keywords": "Sentry",
-    "text": "[subroutine] You may place up to 3 advancement counters on 1 card installed in the root of a remote server. If you do, the Runner accesses that card unless they pay 3[credit].",
+    "flavor": null,
+    "keywords": "セントリー",
+    "text": "[subroutine] サーバー内にインストールされているカード1枚の上に、アドバンストークンを3つまで置いてよい。そうした場合、ランナーが3<credit>を支払わないかぎり、そのランナーはそのカードにアクセスする。",
     "title": "Otoroshi"
   },
   {
     "code": "22039",
-    "flavor": "Step right up!",
-    "keywords": "Code Gate",
-    "text": "When your turn begins and whenever the Runner passes this ice, you may swap this ice with another installed piece of ice.\n[subroutine] End the run.",
+    "flavor": null,
+    "keywords": "コードゲート",
+    "text": "君のターン開始時か、ランナーがThimblerigを通過するたび、Thimblerigを他のインストール状態のアイスと入れ替えてよい。 [subroutine] ランの終了。",
     "title": "Thimblerig"
   },
   {
     "code": "22040",
     "flavor": null,
-    "keywords": "Reprisal - Gray Ops",
-    "text": "Play only if the Runner trashed a Corp card during their last turn.\nChoose 1 of your installed cards. The Runner may access that card. If they do, remove this operation from the game; otherwise, add this operation to the Runner's score area as an agenda worth -1 agenda point.",
+    "keywords": "報復 - 触法",
+    "text": "ランナーが直前のターンにコーポのカードをトラッシュしていた場合にのみプレイする。\nインストール状態のコーポのカードを1つ選ぶ。ランナーはそのカードにアクセスしてよい。そのランナーがそうした場合、Hangekiをトラッシュする代わりにゲームから取り除く。そうでない場合、Hangekiを-1計画ポイントの計画書としてランナーの得点エリアに加える。",
     "title": "Hangeki"
   },
   {
     "code": "22041",
     "flavor": null,
     "keywords": null,
-    "text": "When the Runner approaches this server, you may trash this upgrade. If you do, choose 1 card in the root of another server or 1 agenda, asset, or upgrade in HQ. Swap that card with 1 card in the root of this server. If you swap cards this way, the Runner may jack out.",
+    "text": "ランナーがこのサーバーにアプローチした時、Darumaをトラッシュしてよい。そうした場合、このサーバー内にインストールされているカード1枚を、サーバー内にインストールされている他のカード1枚か、もしくはHQにある計画書か資財か強化のうちの1枚と入れ替えてよい。",
     "title": "Daruma"
   },
   {
     "code": "22042",
     "flavor": null,
-    "keywords": "Subsidiary",
-    "text": "The Runner is considered to have 1 additional tag (even if they have 0) during encounters with the outermost piece of ice protecting any server.",
+    "keywords": "支社",
+    "text": "サーバーを守っている最外殻のアイスにエンカウント中のランナーは追加のタグを1つ所有しているものと見なされる（0タグ所有の場合でも）。",
     "title": "Acme Consulting: The Truth You Need"
   },
   {
     "code": "22043",
-    "flavor": "Only half as annoying as the real thing.",
-    "keywords": "Initiative",
-    "text": "When you score Fly on the Wall, give the Runner 1 tag.",
+    "flavor": null,
+    "keywords": "構想",
+    "text": "Fly on the Wallを得点した時、ランナーにタグを1つ与える。",
     "title": "Fly on the Wall"
   },
   {
     "code": "22044",
-    "flavor": "\"What's so special about the Special Investigations Unit?\"\n\"Their budget, for starters.\"",
+    "flavor": null,
     "keywords": null,
-    "text": "When your turn begins, you may trash SIU to Trace[3]. If successful, give the Runner 1 tag.",
+    "text": "君のターン開始時、SIUをトラッシュすることで「トレース[3] - 成功した場合、ランナーにタグを1つ与える。」をしてよい。",
     "title": "SIU"
   },
   {
     "code": "22045",
-    "flavor": "\"I lost the staring contest. And all seven rematches.\" -Kabonesa Wu",
-    "keywords": "Code Gate",
-    "text": "When the Runner encounters this ice, choose a card type, then reveal all cards in the grip. For the remainder of this run, this ice gains \"[subroutine] End the run unless the Runner takes 1 tag.\" for each revealed card of the chosen type.",
+    "flavor": null,
+    "keywords": "コードゲート",
+    "text": "ランナーがPeeping Tomにエンカウントした時、カードタイプを宣言し、グリップのカードを全て公開する。宣言されたタイプを持つ公開されたカード1枚につきPeeping Tomは「[subroutine] ランナーがタグを1つ受けない限り、ランの終了。」を1つ得る。",
     "title": "Peeping Tom"
   },
   {
     "code": "22046",
     "flavor": null,
-    "keywords": "Sentry - AP",
-    "text": "[subroutine] Do 3 net damage if the Runner is tagged; otherwise, give the Runner 1 tag.\n[subroutine] Gain 5[credit] if the Runner is tagged; otherwise, give the Runner 1 tag.\n[subroutine] End the run if the Runner is tagged; otherwise, give the Runner 1 tag.\n",
+    "keywords": "セントリー - 対人",
+    "text": "[subroutine] ランナーがタグされている場合、3ネットダメージを与える。そうでない場合、ランナーにタグを1つ与える。\n[subroutine] ランナーがタグされている場合、君は5[credit]を得る。そうでない場合、ランナーにタグを1つ与える。\n[subroutine] ランナーがタグされている場合、ランの終了。そうでない場合、ランナーにタグを1つ与える。",
     "title": "Hydra"
   },
   {
     "code": "22047",
-    "flavor": "\"No, the audio is fine. It just never seems to turn off.\"",
-    "keywords": "Gray Ops - Condition",
-    "text": "Install Eavesdrop on a piece of ice as a hosted condition counter with the text \"Whenever the Runner encounters host ice, Trace[3]. If successful, give the Runner 1 tag.\"",
+    "flavor": null,
+    "keywords": "触法 - 条件",
+    "text": "Eavesdropを「ランナーがホストのアイスにエンカウントするたび、トレース[3] - 成功した場合、ランナーにタグを1つ与える。」のテキストを持ちアイスの上に搭載されている条件カウンターとしてインストールする。",
     "title": "Eavesdrop"
   },
   {
     "code": "22048",
-    "flavor": "\"Good news, ma'am. The compliance training was completed with little resistance.\"",
+    "flavor": null,
     "keywords": null,
-    "text": "Draw 2 cards. Reveal up to 2 agendas in HQ and/or Archives. Gain 2[credit] for each agenda revealed, then shuffle those agendas into R&D.",
+    "text": "カードを2枚引く。HQやアーカイブの計画書を合計2つまで公開する。公開された計画書1つにつき2[credit]を得て、それら計画書をR&Dに加えてシャッフルする。",
     "title": "Attitude Adjustment"
   },
   {
     "code": "22049",
-    "flavor": "\"Cheers, Philbert.\"",
-    "keywords": "Sysop",
-    "text": "Whenever an agenda is scored from this server, you may install a card from HQ, ignoring all costs, and place 1 advancement token on it.",
+    "flavor": null,
+    "keywords": "シスオペ",
+    "text": "このサーバーの計画書が1つ得点されるたび、「HQから全てのコストを無視してカードを1枚インストールし、その上にアドバンストークンを1つ置く」をしてよい。",
     "title": "Arella Salvatore"
   },
   {
     "code": "22050",
-    "flavor": "We do things our way.",
-    "keywords": "Subsidiary",
-    "text": "Gain 3[credit] whenever you take at least 1 bad publicity.",
+    "flavor": null,
+    "keywords": "子会社",
+    "text": "1つ以上の悪名を受けるたび、3[credit]を得る。",
     "title": "The Outfit: Family Owned and Operated"
   },
   {
     "code": "22051",
     "flavor": null,
-    "keywords": "Security",
-    "text": "When you score Broad Daylight, you may take 1 bad publicity. Place 1 agenda counter on Broad Daylight for each bad publicity you have.\n[click], <strong>hosted agenda counter</strong>: Do 2 meat damage. Use this ability only once per turn.",
+    "keywords": "保安",
+    "text": "Broad Daylight を得点した時、悪名を 1 つ受けてよい。 Broad Daylight の上に、君の所有する悪名 1 つにつき計画カウンターを 1 つ載せる。\n<strong>[click], 搭載されている計画カウンター1つ</strong>：2ミートダメージを与える。この能力は1ターンに1度のみ使える。",
     "title": "Broad Daylight"
   },
   {
     "code": "22052",
     "flavor": null,
     "keywords": null,
-    "text": "Place 3 power counters on Drudge Work when it is rezzed. When there are no power counters left on Drudge Work, trash it.\n[click], <strong>hosted power counter</strong>: Reveal an agenda in HQ or Archives. Gain credits equal to its agenda points, then shuffle it into R&D.",
+    "text": "Drudge Workをレゾした時、その上にパワーカウンターを3つ置く。Drudge Workの上にパワーカウンターが残っていない時、それをトラッシュする。\n<strong>[click], 搭載されているパワーカウンター1つ：HQかアーカイブの中の計画書を1つ公開する。その計画ポイントに等しいクレジットを得たら、それをR&Dに加えてシャッフルする。",
     "title": "Drudge Work"
   },
   {
     "code": "22053",
     "flavor": null,
-    "keywords": "Barrier",
-    "text": "Blockchain gains \"[subroutine] The Corp gains 1[credit] and the Runner loses 1[credit].\" before all its other subroutines for every 2 faceup <strong>transaction</strong> operations in Archives.\n[subroutine] The Corp gains 1[credit] and the Runner loses 1[credit].\n[subroutine] End the run.",
+    "keywords": "バリア",
+    "text": "Blockchainはアーカイブの表向きの<strong>取引</strong>2つにつき「[subroutine] コーポは1[credit]を得て、ランナーは1[credit]を失う。」を1つ、他の全てのサブルーチンの前に得る。\n[subroutine] コーポは1[credit]を得て、ランナーは1[credit]を失う。\n[subroutine] ランの終了。",
     "title": "Blockchain"
   },
   {
     "code": "22054",
-    "flavor": "A place of decay and death, a plane out of phase, a place of monsters.",
-    "keywords": "Sentry - AP",
-    "text": "Whenever the Runner approaches a server, you may rez this ice. If you do, move this ice to the innermost position protecting the approached server. The Runner moves to this ice and encounters it.\n[subroutine] End the run unless the Runner suffers 2 net damage.",
+    "flavor": null,
+    "keywords": "セントリー - 対人",
+    "text": "ランナーがいずれかのサーバーにアプローチした時、Fomicaryをレゾしてよい。そうした場合、それをそのサーバーの最内殻の位置に移動する。ランナーはそれにエンカウントしている状態になる。[subroutine] ランナーが2ネットダメージを受けない限り、ランの終了。",
     "title": "Formicary"
   },
   {
     "code": "22055",
-    "flavor": "\"It looks like a mistake but I'm pretty sure they leave the gaps on purpose.\" -Gnat",
+    "flavor": null,
     "keywords": null,
-    "text": "Reveal a <strong>barrier</strong> from HQ. Install and rez it, ignoring all costs.",
+    "text": "HQの<strong>バリア</strong>を1つ公開する。全てのコストを無視して「それをインストールしてレゾ」する。",
     "title": "Building Blocks"
   },
   {
     "code": "22056",
-    "flavor": "\"This is blackmail!\"\n\"No, this is <em>extortion.</em>\"",
-    "keywords": "Transaction - Illicit",
-    "text": "Play only if you have fewer than 10[credit].\nGain 7[credit] and take 1 bad publicity.",
+    "flavor": null,
+    "keywords": "取引 - Illicit",
+    "text": "君が10[credit]未満しか所有していない場合にのみプレイする。\n7[credit]を得て悪名を1つ受ける。",
     "title": "Too Big to Fail"
   },
   {
     "code": "22057",
     "flavor": null,
-    "keywords": "Gray Ops - Illicit",
-    "text": "Play only if the Runner accessed a card during their last turn.\nTrash 1 installed <strong>connection</strong> resource and take 1 bad publicity.",
+    "keywords": "触法 - Illict"
+    "text": "ランナーが直前のターンにカードにアクセスした場合のみプレイする。\n<strong>コネ</strong>のリソースを1つトラッシュして悪名を1つ受ける。",
     "title": "Under the Bus"
   },
   {
     "code": "22058",
     "flavor": null,
-    "keywords": "Region - Ritzy",
-    "text": "When your turn begins, place 1 power counter on Lady Liberty.\n[click], [click], [click]: Add an agenda from HQ to your score area worth agenda points equal to the exact number of hosted power counters.\nLimit 1 <strong>region</strong> per server.\nLimit 1 per deck.",
+    "keywords": "領域 - 豪勢",
+    "text": "君のターン開始時、Lady Libertyにパワーカウンターを1つ置く。\n[click][click][click]：搭載されているパワーカウンターの数とちょうど等しい計画ポイントを持つHQの計画書1つを、君の得点エリアに加える。\n各サーバーの<strong>領域</strong>は1つまで。\nデッキに1枚制限。",
     "title": "Lady Liberty"
   }
 ]
