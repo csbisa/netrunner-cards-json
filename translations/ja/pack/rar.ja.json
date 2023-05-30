@@ -11,398 +11,398 @@
     "flavor": null,
     "keywords": "ラン",
     "text": "アーカイブにランを行う。成功した場合、アーカイブへのアクセス後、HQのカード1枚にアクセスし、そしてR&Dの一番上のカードにアクセスする。",
-    "title": "Divide and Conquer"
+    "title": "分割統治"
   },
   {
     "code": "22003",
     "flavor": null,
     "keywords": null,
     "text": "グリップをトラッシュする。\n10[credit]を得る。",
-    "title": "Guinea Pig"
+    "title": "モルモット"
   },
   {
     "code": "22004",
     "flavor": null,
     "keywords": "コンソール",
     "text": "+1[mu]\n1ターンに1度、君がカードを1枚プレイしようとするかインストールしようとする時、グリップのカードを1枚トラッシュすることで、そのプレイコストかインストールコストを2下げてよい。\n各プレイヤーの<strong>コンソール</strong>は1つまで。",
-    "title": "Patchwork"
+    "title": "パッチワーク"
   },
   {
     "code": "22005",
     "flavor": null,
     "keywords": null,
     "text": "コーポがサーバーを1つ作るたび、そのコーポは1[credit]を失う。\nアーカイブへのランが成功するたび、Hijacked Routerをトラッシュすることで、コーポに3[credit]を失わせてよい。",
-    "title": "Hijacked Router"
+    "title": "乗っ取られたルーター"
   },
   {
     "code": "22006",
     "flavor": null,
     "keywords": "アイスブレイカー - デコーダー",
     "text": "グリップのカード1枚につきCradleは強度-1。\n<strong>2[credit]</strong>：<strong>コードゲート</strong>のサブルーチンを任意の数だけブレイクする。",
-    "title": "Cradle"
+    "title": "クレイドル" # TODO Cradle -- can be better I think
   },
   {
     "code": "22007",
     "flavor": null,
     "keywords": "場所 - 裏世界",
     "text": "各ターン、最初にプログラム1つかハードウェア1つが（どこからであれ）トラッシュされた時、District 99にパワーカウンターを1つ置いてよい。\n[click], <strong>搭載されているパワーカウンター3つ</strong>：ヒープにある、君のIDと派閥の一致するカードを1枚グリップに加える。",
-    "title": "District 99"
+    "title": "第99地区"
   },
   {
     "code": "22008",
     "flavor": null,
     "keywords": "G-モード",
     "text": "各ターン、最初に中央サーバーへのランが成功した時、カードを2枚引きタグを1つ受ける。",
-    "title": "Liza Talking Thunder: Prominent Legislator"
+    "title": "リーザ・トーキング・サンダー：著名な国会議員"
   },
   {
     "code": "22009",
     "flavor": null,
     "keywords": "ラン",
     "text": "HQにランを行う。成功した場合、9[credit]を得てタグを1つ受ける。",
-    "title": "Hot Pursuit"
+    "title": "緊急追跡"
   },
   {
     "code": "22010",
     "flavor": null,
     "keywords": "コンソール",
     "text": "+1[mu]\n各ターン、最初にランが成功した時、「1[credit]を得て、スタックの一番上のカードを見る」をしてよい。そうした場合、スタックの一番下にそのカードを加えてよい。\n各プレイヤーの<strong>コンソール</strong>は1つまで。",
-    "title": "Paragon"
+    "title": "パラゴン"
   },
   {
     "code": "22011",
     "flavor": null,
     "keywords": null,
     "text": "ランが成功するたび、Bankrollにバンクからの1[credit]を載せてよい。\n[trash]：Bankroll から全てのクレジットを受け取る。",
-    "title": "Bankroll"
+    "title": "バンクロール"
   },
   {
     "code": "22012",
     "flavor": null,
     "keywords": "アイスブレイカー - フラクター",
     "text": "Tycoonを使って1つでもサブルーチンをブレイクしたアイスとのエンカウントが終了するたび、コーポは2[credit]を得る。\n<strong>1[credit]</strong>：バリアのサブルーチンを2つまでブレイクする。\n<strong>2[credit]</strong>：強度+3。",
-    "title": "Tycoon"
+    "title": "タイクーン"
   },
   {
     "code": "22013",
     "flavor": null,
     "keywords": "場所 - Ritzy",
     "text": "各ターン、最初にタグを1つでも回避するか取り除いた時、グリップのカード1枚をインストールコストを1下げてインストールしてよい。",
-    "title": "Thunder Art Gallery"
+    "title": "サンダーアートギャラリー"
   },
   {
     "code": "22014",
     "flavor": null,
     "keywords": "コネ",
     "text": "Miss Bonesをインストールした時、彼女の上に12[credit]を置く。Miss Bonesの上にクレジットが残っていない時、彼女をトラッシュする。\nこのクレジットは、インストール状態のカードをトラッシュするのに使用する。",
-    "title": "Miss Bones"
+    "title": "ミス・ボーンズ"
   },
   {
     "code": "22015",
     "flavor": null,
     "keywords": "クローン",
     "text": "R&Dのカード群にアクセスするたび、君とコーポは0[credit]か1[credit]か2[credit]を秘密裏に支払う。支払ったクレジットを公開する。君とコーポが同一の額のクレジットを支払っていた場合、R&Dのカードに追加で1枚アクセスする。",
-    "title": "Akiko Nisei: Head Case"
+    "title": "アキコ・ニセイ：失調者"
   },
   {
     "code": "22016",
     "flavor": null,
     "keywords": "ダブル",
     "text": "このイベントをプレイする追加コストとして[click]を消費する。\nコーポは「R&D の一番上から4枚のカードを見て、それらを望む順番で組み替える」をしてよい。\nR&Dの一番上から4枚のカードを公開する。",
-    "title": "Insight"
+    "title": "洞察"
   },
   {
     "code": "22017",
     "flavor": null,
     "keywords": "コンソール",
     "text": "+1[mu]\nR&Dへのランが成功するたび、Mind's Eyeにパワーカウンターを1つ置いてよい。\n<strong>[click], 搭載されているパワーカウンター3つ</strong>：R&Dの一番上のカードにアクセスする。\n各プレイヤーの<strong>コンソール</strong>は 1 つまで。",
-    "title": "Mind's Eye"
+    "title": "マインド・アイ"
   },
   {
     "code": "22018",
     "flavor": null,
     "keywords": null,
     "text": "各ターン、アクセス中のカードを最初にトラッシュした時、そのカードのトラッシュコストと同じだけのパワーカウンターをMâchéに載せてよい。\n<strong>搭載されているパワーカウンター3つ</strong>：カードを1枚引く。",
-    "title": "Mâché"
+    "title": "張り子"
   },
   {
     "code": "22019",
     "flavor": null,
     "keywords": "アイスブレイカー - キラー - Trojan",
     "text": "<strong>2[credit]</strong>：Ikaをアイス1つの上に搭載する。\n<strong>1[credit]</strong>：ホストのセントリーのサブルーチンを2つまでブレイクする。\n<strong>2[credit]</strong>：強度 +3 。",
-    "title": "Ika"
+    "title": "いか"
   },
   {
     "code": "22020",
     "flavor": null,
     "keywords": "Trojan",
     "text": "Kyubanはアイス1枚の上にのみインストールする。ホストのアイスを通過するたび、2[credit]得る。",
-    "title": "Kyuban"
+    "title": "きゅうばん"
   },
   {
     "code": "22021",
     "flavor": null,
     "keywords": "コネ",
     "text": "各ターン、最初に成功したR&Dへのランが終了した時、アクセスされたR&Dのカード1枚につき1[credit]を得てよい。",
-    "title": "Psych Mike"
+    "title": "プシュケー・マイク"
   },
   {
     "code": "22022",
     "flavor": null,
     "keywords": null,
     "text": "君のターン開始時、2[credit]を支払うことで、[click]を得てよい。そうした場合、君のターン終了時、このターンに君がランを成功させていない場合、Algernonをトラッシュする。",
-    "title": "Algernon"
+    "title": "アルジャーノン"
   },
   {
     "code": "22023",
     "flavor": null,
     "keywords": "ラン",
     "text": "アーカイブへランを行う。成功した場合、カード群にアクセスするかわりに、ヒープのカードを5枚まで裏向きにインストールする。Rebootをトラッシュするかわりにゲームから取り除く。",
-    "title": "Reboot"
+    "title": "再起動"
   },
   {
     "code": "22024",
     "flavor": null,
     "keywords": null,
     "text": "君のリンク強度1につきOffice Suppliesのプレイコストは1減る。\n4[credit]得るかカードを4枚引く。",
-    "title": "Office Supplies"
+    "title": "事務用品"
   },
   {
     "code": "22025",
     "flavor": null,
     "keywords": "コネ",
     "text": "DJ Fenris がインストールされた時、君のIDと派閥が異なる<strong>G-モード</strong>のIDを彼の上に搭載する。DJ Fenrisがアンインストールされた場合、搭載されていたIDをゲームから取り除く。\nDJ Fenris は搭載されているIDのテキストを得る。\nデッキに1枚制限。",
-    "title": "DJ Fenris"
+    "title": "DJ フェンリス"
   },
   {
     "code": "22026",
     "flavor": null,
     "keywords": "子会社",
     "text": "計画書が得点されるか盗まれるたび、2[credit]を得るか、カードを2枚引く。",
-    "title": "Sportsmetal: Go Big or Go Home"
+    "title": "スポーツメタル：やるならとことん"
   },
   {
     "code": "22027",
     "flavor": null,
     "keywords": "拡張",
     "text": "Hyperloop Extensionが得点されるか盗まれた時、コーポは3[credit]を得る。",
-    "title": "Hyperloop Extension"
+    "title": "ハイパーループ拡張"
   },
   {
     "code": "22028",
     "flavor": null,
     "keywords": "バリア",
     "text": "[subroutine] ランナーがMeridianを-1計画ポイントの計画書として自分の得点エリアに加えないかぎり、コーポは4[credit]を得てランの終了。",
-    "title": "Meridian"
+    "title": "メリディアン"
   },
   {
     "code": "22029",
     "flavor": null
     "keywords": "コードゲート",
     "text": "このターンに君がGatekeeperをレゾした場合、それは強度+6を持つ。\n[subroutine] 3枚までカードを引く。HQやアーカイブから合計3枚まで計画書を公開し、それら計画書をR&Dに加えてシャッフルする。\n[subroutine] ランの終了。",
-    "title": "Gatekeeper"
+    "title": "ゲートキーパー"
   },
   {
     "code": "22030",
     "flavor": null,
     "keywords": null,
     "text": "任意の数のカードをデレゾする。これにより君がデレゾしたカード1枚につきレゾコストを3下げて、カードを1枚レゾしてよい。",
-    "title": "Divert Power"
+    "title": "力の転換"
   },
   {
     "code": "22031",
     "flavor": null,
     "keywords": null,
     "text": "X[credit]を得る。X枚までカードを引く。合計X枚までのカードを1つの遠隔サーバーの中やそれを守る位置にインストールする（全てのインストールコストは払う）。Xはランナーの得点エリアにある計画書の数である。",
-    "title": "Fast Break"
+    "title": "速攻"
   },
   {
     "code": "22032",
     "flavor": null,
     "keywords": null,
     "text": "ランナーの得点エリアにある計画書1つにつき[click]を1つ得る。Game Changerをトラッシュするかわりにゲームから取り除く。",
-    "title": "Game Changer"
+    "title": "ゲームチェンジャー"
   },
   {
     "code": "22033",
     "flavor": null,
     "keywords": "施設",
     "text": "このサーバーへの成功したランがあるたび、ランナーの得点エリアにある計画書1つにつき2[credit]をそのランナーが支払わないかぎり、ランの終了。",
-    "title": "Giordano Memorial Field"
+    "title": "ジョルダーノ記念球場"
   },
   {
     "code": "22034",
     "flavor": null,
     "keywords": "部署",
     "text": "[click], 1[credit]：HQからカード1枚を遠隔サーバー内にインストールし、その上にアドバンストークンを1つ置く。次の君のターンが開始するまで、そのカードは得点やレゾができない。",
-    "title": "Saraswati Mnemonics: Endless Exploration"
+    "title": "サラスヴァティ・ニーモニック：終わりなき探求"
   },
   {
     "code": "22035",
     "flavor": null,
     "keywords": "調査",
     "text": "君のターン終了時、サーバー内にインストールされたカード1枚にアドバンストークンを2つ置く。",
-    "title": "Jumon"
+    "title": "じゅもん"
   },
   {
     "code": "22036",
     "flavor": null,
     "keywords": "人物",
     "text": "君のターン開始時、インストール状態のカードの上からアドバンストークンを1つ取り除くことで、3[credit]を得てよい。",
-    "title": "API-S Keeper Isobel"
+    "title": "蜜蜂管理者イソベル" # TODO n?
   },
   {
     "code": "22037",
     "flavor": null,
     "keywords": "待ち伏せ",
     "text": "Neurostasisはアドバンス可能。\nランナーがNeurostasisにアクセスした時、君が3[credit]を支払った場合、Neurostasisの上のアドバンストークン1つにつきインストール状態のランナーのカードを1つ選ぶ。ランナーは選ばれたカードをスタックに加えてシャッフルしなければならない。",
-    "title": "Neurostasis"
+    "title": "神経症" # TODO check
   },
   {
     "code": "22038",
     "flavor": null,
     "keywords": "セントリー",
     "text": "[subroutine] サーバー内にインストールされているカード1枚の上に、アドバンストークンを3つまで置いてよい。そうした場合、ランナーが3<credit>を支払わないかぎり、そのランナーはそのカードにアクセスする。",
-    "title": "Otoroshi"
+    "title": "おとろし"
   },
   {
     "code": "22039",
     "flavor": null,
     "keywords": "コードゲート",
     "text": "君のターン開始時か、ランナーがThimblerigを通過するたび、Thimblerigを他のインストール状態のアイスと入れ替えてよい。 [subroutine] ランの終了。",
-    "title": "Thimblerig"
+    "title": "ティンブリーグ"
   },
   {
     "code": "22040",
     "flavor": null,
     "keywords": "報復 - 触法",
     "text": "ランナーが直前のターンにコーポのカードをトラッシュしていた場合にのみプレイする。\nインストール状態のコーポのカードを1つ選ぶ。ランナーはそのカードにアクセスしてよい。そのランナーがそうした場合、Hangekiをトラッシュする代わりにゲームから取り除く。そうでない場合、Hangekiを-1計画ポイントの計画書としてランナーの得点エリアに加える。",
-    "title": "Hangeki"
+    "title": "はんげき"
   },
   {
     "code": "22041",
     "flavor": null,
     "keywords": null,
     "text": "ランナーがこのサーバーにアプローチした時、Darumaをトラッシュしてよい。そうした場合、このサーバー内にインストールされているカード1枚を、サーバー内にインストールされている他のカード1枚か、もしくはHQにある計画書か資財か強化のうちの1枚と入れ替えてよい。",
-    "title": "Daruma"
+    "title": "だるま"
   },
   {
     "code": "22042",
     "flavor": null,
     "keywords": "支社",
     "text": "サーバーを守っている最外殻のアイスにエンカウント中のランナーは追加のタグを1つ所有しているものと見なされる（0タグ所有の場合でも）。",
-    "title": "Acme Consulting: The Truth You Need"
+    "title": "アクメ・コンサルティング：あなたに必要な真実"
   },
   {
     "code": "22043",
     "flavor": null,
     "keywords": "構想",
     "text": "Fly on the Wallを得点した時、ランナーにタグを1つ与える。",
-    "title": "Fly on the Wall"
+    "title": "壁に止まるハエ" # or 隠れ潜む観察者の意
   },
   {
     "code": "22044",
     "flavor": null,
     "keywords": null,
     "text": "君のターン開始時、SIUをトラッシュすることで「トレース[3] - 成功した場合、ランナーにタグを1つ与える。」をしてよい。",
-    "title": "SIU"
+    "title": "特別捜査班"
   },
   {
     "code": "22045",
     "flavor": null,
     "keywords": "コードゲート",
     "text": "ランナーがPeeping Tomにエンカウントした時、カードタイプを宣言し、グリップのカードを全て公開する。宣言されたタイプを持つ公開されたカード1枚につきPeeping Tomは「[subroutine] ランナーがタグを1つ受けない限り、ランの終了。」を1つ得る。",
-    "title": "Peeping Tom"
+    "title": "ピーピング・トム"
   },
   {
     "code": "22046",
     "flavor": null,
     "keywords": "セントリー - 対人",
     "text": "[subroutine] ランナーがタグされている場合、3ネットダメージを与える。そうでない場合、ランナーにタグを1つ与える。\n[subroutine] ランナーがタグされている場合、君は5[credit]を得る。そうでない場合、ランナーにタグを1つ与える。\n[subroutine] ランナーがタグされている場合、ランの終了。そうでない場合、ランナーにタグを1つ与える。",
-    "title": "Hydra"
+    "title": "ハイドラ"
   },
   {
     "code": "22047",
     "flavor": null,
     "keywords": "触法 - 条件",
     "text": "Eavesdropを「ランナーがホストのアイスにエンカウントするたび、トレース[3] - 成功した場合、ランナーにタグを1つ与える。」のテキストを持ちアイスの上に搭載されている条件カウンターとしてインストールする。",
-    "title": "Eavesdrop"
+    "title": "盗聴" # TODO or 盗み聞き
   },
   {
     "code": "22048",
     "flavor": null,
     "keywords": null,
     "text": "カードを2枚引く。HQやアーカイブの計画書を合計2つまで公開する。公開された計画書1つにつき2[credit]を得て、それら計画書をR&Dに加えてシャッフルする。",
-    "title": "Attitude Adjustment"
+    "title": "態度の矯正"
   },
   {
     "code": "22049",
     "flavor": null,
     "keywords": "シスオペ",
     "text": "このサーバーの計画書が1つ得点されるたび、「HQから全てのコストを無視してカードを1枚インストールし、その上にアドバンストークンを1つ置く」をしてよい。",
-    "title": "Arella Salvatore"
+    "title": "アレーラ・サルバトーレ"
   },
   {
     "code": "22050",
     "flavor": null,
     "keywords": "子会社",
     "text": "1つ以上の悪名を受けるたび、3[credit]を得る。",
-    "title": "The Outfit: Family Owned and Operated"
+    "title": "ジ・アウトフィット：家族経営"
   },
   {
     "code": "22051",
     "flavor": null,
     "keywords": "保安",
     "text": "Broad Daylight を得点した時、悪名を 1 つ受けてよい。 Broad Daylight の上に、君の所有する悪名 1 つにつき計画カウンターを 1 つ載せる。\n<strong>[click], 搭載されている計画カウンター1つ</strong>：2ミートダメージを与える。この能力は1ターンに1度のみ使える。",
-    "title": "Broad Daylight"
+    "title": "白昼堂々"
   },
   {
     "code": "22052",
     "flavor": null,
     "keywords": null,
     "text": "Drudge Workをレゾした時、その上にパワーカウンターを3つ置く。Drudge Workの上にパワーカウンターが残っていない時、それをトラッシュする。\n<strong>[click], 搭載されているパワーカウンター1つ：HQかアーカイブの中の計画書を1つ公開する。その計画ポイントに等しいクレジットを得たら、それをR&Dに加えてシャッフルする。",
-    "title": "Drudge Work"
+    "title": "単純作業"
   },
   {
     "code": "22053",
     "flavor": null,
     "keywords": "バリア",
     "text": "Blockchainはアーカイブの表向きの<strong>取引</strong>2つにつき「[subroutine] コーポは1[credit]を得て、ランナーは1[credit]を失う。」を1つ、他の全てのサブルーチンの前に得る。\n[subroutine] コーポは1[credit]を得て、ランナーは1[credit]を失う。\n[subroutine] ランの終了。",
-    "title": "Blockchain"
+    "title": "ブロックチェーン"
   },
   {
     "code": "22054",
     "flavor": null,
     "keywords": "セントリー - 対人",
     "text": "ランナーがいずれかのサーバーにアプローチした時、Fomicaryをレゾしてよい。そうした場合、それをそのサーバーの最内殻の位置に移動する。ランナーはそれにエンカウントしている状態になる。[subroutine] ランナーが2ネットダメージを受けない限り、ランの終了。",
-    "title": "Formicary"
+    "title": "フォーミキャリー" # or アリ塚
   },
   {
     "code": "22055",
     "flavor": null,
     "keywords": null,
     "text": "HQの<strong>バリア</strong>を1つ公開する。全てのコストを無視して「それをインストールしてレゾ」する。",
-    "title": "Building Blocks"
+    "title": "構成単位"
   },
   {
     "code": "22056",
     "flavor": null,
-    "keywords": "取引 - Illicit",
+    "keywords": "取引 - 不正",
     "text": "君が10[credit]未満しか所有していない場合にのみプレイする。\n7[credit]を得て悪名を1つ受ける。",
-    "title": "Too Big to Fail"
+    "title": "大きすぎて潰せない"
   },
   {
     "code": "22057",
     "flavor": null,
-    "keywords": "触法 - Illict"
+    "keywords": "触法 - 不正",
     "text": "ランナーが直前のターンにカードにアクセスした場合のみプレイする。\n<strong>コネ</strong>のリソースを1つトラッシュして悪名を1つ受ける。",
-    "title": "Under the Bus"
+    "title": "裏切り、陰謀" # TODO check
   },
   {
     "code": "22058",
     "flavor": null,
     "keywords": "領域 - 豪勢",
     "text": "君のターン開始時、Lady Libertyにパワーカウンターを1つ置く。\n[click][click][click]：搭載されているパワーカウンターの数とちょうど等しい計画ポイントを持つHQの計画書1つを、君の得点エリアに加える。\n各サーバーの<strong>領域</strong>は1つまで。\nデッキに1枚制限。",
-    "title": "Lady Liberty"
+    "title": "レディ・リバティ"
   }
 ]
