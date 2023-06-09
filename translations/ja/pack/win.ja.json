@@ -8,10 +8,10 @@
   },
   {
     "code": "21082",
-    "flavor": "Twisting, writhing, ripping into all that it touches.",
-    "keywords": "Virus - Trojan",
-    "text": "Install only on a piece of ice.\nWhen your turn begins, you may place 1 virus counter on this program.\nWhen there are 5 or more hosted virus counters, trash host ice.",
-    "title": "Trypano"
+    "flavor": null,
+    "keywords": "ウィルス - トロイ",
+    "text": "このプログラムはアイスの上にのみインストールする。\nこのプログラムのウィルスカウンターが5個以上の場合、ホストのアイスをトラッシュする。\n君のターンの開始時、このプログラムにウィルスカウンターを1個置いてよい。",
+    "title": "トリパノ"
   },
   {
     "code": "21083",
@@ -23,9 +23,9 @@
   {
     "code": "21084",
     "flavor": null,
-    "keywords": "Run - Sabotage",
-    "text": "Run HQ. If successful, instead of breaching HQ, name asset, ice, operation or upgrade, then reveal 2 cards from HQ at random. Trash each revealed card that has the named type, then gain 4[credit] for each card trashed this way.",
-    "title": "Embezzle"
+    "keywords": "ラン - 破壊工作",
+    "text": "HQにランを行う。成功した場合、カードにアクセスする代わりに、資財かアイスか任務か強化を指名し、HQのカードを2枚ランダムに公開する。指名されたタイプを持つ公開された各カードをトラッシュし、その後にこれによりトラッシュされたカード`1枚につき4[credit]を得る。",
+    "title": "横領"
   },
   {
     "code": "21085",
@@ -64,7 +64,7 @@
   },
   {
     "code": "21090",
-    "flavor": "\"Jackpot!\"",
+    "flavor": null,
     "keywords": null,
     "text": "君のターン開始時、ジャックポット！の上に1[credit]を置いてよい。\n計画書が君の得点エリアに加えられるたび、任意の数のクレジットをジャックポット！から受け取ってよい。そうした場合、ジャックポット！をトラッシュする。",
     "title": "ジャックポット！"
@@ -79,9 +79,9 @@
   {
     "code": "21092",
     "flavor": null,
-    "keywords": "Sentry - Bioroid - Destroyer - AP",
-    "text": "<strong>Lose [click]:</strong> Break 1 subroutine on this ice. Only the Runner can use this ability.\n[subroutine] Do 1 core damage unless the Runner trashes 1 installed resource.\n[subroutine] Do 1 core damage unless the Runner trashes 1 installed piece of hardware.\n[subroutine] Do 1 core damage unless the Runner trashes 1 installed program.",
-    "title": "Kamali 1.0"
+    "keywords": "セントリ - バイオロイド - デストロイヤー - 対人",
+    "text": "ランナーは[click]を消費することで、このアイス上のサブルーチンを1つブレイクできる。\n[subroutine] ランナーがインストール状態のリソースを1つトラッシュしないかぎり、1コアダメージを与える。\n[subroutine] ランナーがインストール状態のハードウェアを1つトラッシュしないかぎり、1コアダメージを与える。\n[subroutine] ランナーがインストール状態のプログラムを1つトラッシュしないかぎり、1コアダメージを与える。",
+    "title": "カマーリ 1.0"
   },
   {
     "code": "21093",
@@ -99,10 +99,10 @@
   },
   {
     "code": "21095",
-    "flavor": "\"On one hand, I knew I shouldn't touch it. On the other, it was really shiny.\" - Kabonesa Wu",
-    "keywords": "Barrier - AP",
-    "text": "[subroutine] Do 1 net damage.\n[subroutine] End the run.",
-    "title": "Envelope"
+    "flavor": null,
+    "keywords": "バリアー - 対人",
+    "text": "[subroutine] 1ネットダメージを与える。\n[subroutine] ランの終了。",
+    "title": "エンベロープ"
   },
   {
     "code": "21096",
@@ -121,9 +121,9 @@
   {
     "code": "21098",
     "flavor": null,
-    "keywords": "Ambush",
-    "text": "While the Runner is accessing this upgrade in R&D, they must reveal it.\nWhen the Runner accesses this upgrade anywhere except in Archives, Trace[4]. If successful, add 1 installed program or <strong>virtual</strong> resource to the grip.",
-    "title": "Intake"
+    "keywords": "待ち伏せ",
+    "text": "この強化がR&Dからアクセスされた場合、ランナーはそれを公開する。\nランナーがこの強化にアクセスした時、「トレース[4] - 成功した場合、インストール状態の、プログラムか<strong>仮想</strong>のリソース1つをグリップに加える。」この効果は、ランナーがアーカイブのこの強化にアクセスした場合は無視する。",
+    "title": "吸入"
   },
   {
     "code": "21099",
@@ -134,9 +134,9 @@
   },
   {
     "code": "21100",
-    "flavor": "The blast doesn't hurt, but what comes after does.",
+    "flavor": null,
     "keywords": null,
-    "text": "Persistent → Whenever the Runner trashes a card from this server or its root, you may pay 1[credit] to give the Runner 1 tag. <em>(If the Runner trashes this card while accessing it, this ability still applies for the remainder of this run.)</em>",
-    "title": "Overseer Matrix"
+    "text": "ランナーがこのサーバーのカードを1枚トラッシュするたび、1[credit]を支払うことでランナーにタグを1つ与えてよい。これは、ランナーがこの強化をトラッシュした場合でも、このラン中は適用される。",
+    "title": "監視マトリクス"
   }
 ]
