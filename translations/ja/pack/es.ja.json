@@ -10,8 +10,8 @@
     "code": "11042",
     "flavor": null,
     "keywords": null,
-    "text": null,
-    "title": null
+    "text": "<strong>セントリー</strong>とエンカウンタするたび、君のヒープのこのプログラムをインストールしてよい。\n<strong>3[credit]：</strong>強度+2。可能なら、<strong>セントリー</strong>のサブルーチンを2つまでブレイクする。",
+    "title": "ブラックオーケストラ"
   },
   {
     "code": "11043",
@@ -122,8 +122,8 @@
     "code": "11058",
     "flavor": null,
     "keywords": null,
-    "text": null,
-    "title": null
+    "text": "ランナーがタグを２つ以上持っている場合にのみプレイする。\nこのイベントをプレイする追加コストとして[click]を消費する。\n7ミートダメージを与える。",
+    "title": "BOOM!"
   },
   {
     "code": "11059",
