@@ -24,7 +24,7 @@
     "code": "21104",
     "flavor": null,
     "keywords": "アイスブレイカー - デコーダー",
-    "text": "境界 → <strong>2[credit]：</strong><strong>コードゲート</strong>のサブルーチンを3つまでブレイクする。\n<strong>2[credit]：</strong>強度+3。\n各ターン、最初にこのプログラムがアイス1つのすべてのサブルーチンをブレイクしたエンカウンタ終了時、コーポは1[credit]を失う。",
+    "text": "境界 → <strong>2[credit]：</strong><strong>コードゲート</strong>のサブルーチンを3つまでブレイクする。\n<strong>2[credit]：</strong>強度+3。\n各ターン、最初にこのプログラムがアイス1つのすべてのサブルーチンをブレイクしたエンカウント終了時、コーポは1[credit]を失う。",
     "title": "アミーナ"
   },
   {
@@ -52,7 +52,7 @@
     "code": "21108",
     "flavor": null,
     "keywords": "アイスブレイカ - デコーダー",
-    "text": "アイスにエンカウンタした時、2[credit]を支払うことで、このエンカウンタの終了時までそれに<strong>コードゲート</strong>を得させてよい。この能力は1ターンに1回のみ使用できる。\n境界 → <strong>1[credit]：</strong><strong>コードゲート</strong>のサブルーチンを1つブレイクする。\n<strong>2[credit]：</strong>強度+4。",
+    "text": "アイスにエンカウントした時、2[credit]を支払うことで、このエンカウントの終了時までそれに<strong>コードゲート</strong>を得させてよい。この能力は1ターンに1回のみ使用できる。\n境界 → <strong>1[credit]：</strong><strong>コードゲート</strong>のサブルーチンを1つブレイクする。\n<strong>2[credit]：</strong>強度+4。",
     "title": "エンゴロ"
   },
   {
