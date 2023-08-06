@@ -17,21 +17,21 @@
     "code": "34003",
     "flavor": "It is hard, once free, to learn when to call for help.",
     "keywords": "Chip",
-    "text": "各ターン初めて、君がコーポのカードをトラッシュした時、このハードウェアにパワーカウンターを1つ置く。\n君のターンの開始時、搭載パワカン１つを取り除くことでカードを1枚引くか、タグを1つ取り除いてよい。",
+    "text": "各ターン初めて、君がコーポのカードをトラッシュした時、このハードウェアにパワーカウンターを1つ置く。\n君のターンの開始時、搭載パワーカウンター1つを取り除くことでカードを1枚引くか、タグを1つ取り除いてよい。",
     "title": "Solidarity Badge"
   },
   {
     "code": "34004",
     "flavor": "\"What do you want from me, blood?\"\n—S3ym0ur",
     "keywords": "Icebreaker - AI - Virus",
-    "text": "君がアクセスしているカードをトラッシュするたび、ウィルスカウンター1つをこのプログラムに置く。\n境界→搭載ウィルスカウンター1つ：サブルーチンを2つまでブレイクする。\nグリップにあるカード1枚をトラッシュする：強度+3",
+    "text": "君がアクセスしているカードをトラッシュするたび、ウィルスカウンター1つをこのプログラムに置く。\n境界→<strong>搭載ウィルスカウンター1つ：</strong>サブルーチンを2つまでブレイクする。\n<strong>グリップにあるカード1枚をトラッシュする：</strong>強度+3",
     "title": "Audrey v2"
   },
   {
     "code": "34005",
     "flavor": "Above the maze of smoke and swinging fists, they saw the banner waving.",
     "keywords": "Icebreaker - Fracter - Weapon",
-    "text": "境界→2[credit]：このエンカウントの残りの間、エンカウントしているバリアのサブルーチンはランの終了ができない。",
+    "text": "境界→<strong>2[credit]：</strong>このエンカウントの残りの間、エンカウントしている<strong>バリア</strong>のサブルーチンはランの終了ができない。",
     "title": "Banner"
   },
   {
@@ -45,14 +45,14 @@
     "code": "34007",
     "flavor": "Luciana loved it when mamãe and papai finished work early, so they could all go home together.",
     "keywords": "Connection - Clone",
-    "text": "[click],タグを1つ受ける：アーカイブにラン。成功した場合、アーカイブに侵入するかわりに、R&Dに侵入する。この能力は1ターンに1回しか使えない。\n脅威3→アーカイブへのラン中にR&Dに侵入するたび、追加で1枚のカードにアクセスする。",
+    "text": "<strong>[click]、タグを1つ受ける：</strong>アーカイブにラン。成功した場合、アーカイブに侵入するかわりに、Ｒ＆Ｄに侵入する。この能力は1ターンに1回しか使えない。\n脅威3→アーカイブへのラン中にＲ＆Ｄに侵入するたび、追加で1枚のカードにアクセスする。",
     "title": "Eru Ayase-Pessoa"
   },
   {
     "code": "34008",
     "flavor": "\"How far shall we go this time?\"",
     "keywords": "Connection",
-    "text": "[click]：[click]を得る。遠隔サーバーにラン。そのランの終了時、それが失敗していた場合、タグを１つ受ける。この能力は１ターンに１度しか使えない。\n[click],[trash]：[click][click]を得る。タグを１つ取り除く。",
+    "text": "<strong>[click]：</strong>[click]を得る。遠隔サーバーにラン。そのランの終了時、それが失敗していた場合、タグを1つ受ける。この能力は1ターンに1度しか使えない。\n<strong>[click]、[trash]：</strong>[click][click]を得る。タグを1つ取り除く。",
     "title": "Hannah \"Wheels\" Pilintra"
   },
   {
@@ -66,21 +66,21 @@
     "code": "34010",
     "flavor": "I decided; I am free.",
     "keywords": "Bioroid",
-    "text": "ラン中にＨＱかＲ＆Ｄに侵入するたび、そのラン中にいずれのサブルーチンもブレイクしていなかった場合、追加で１枚のカードにアクセスしてよい。この能力の使用はターンごとに１回のみ。",
+    "text": "ラン中にＨＱかＲ＆Ｄに侵入するたび、そのラン中にいずれのサブルーチンもブレイクしていなかった場合、追加で1枚のカードにアクセスしてよい。この能力の使用はターンごとに1回のみ。",
     "title": "Mercury: Chrome Libertador"
   },
   {
     "code": "34011",
     "flavor": "Even the tiniest scrap of data can become the key to riches. ",
     "keywords": null,
-    "text": "コーポはＨＱにある計画書を１枚公開してよい。そのコーポがそうした場合、君は[click]を得てカードを１枚引く。そうでない場合、Ｒ&Ｄの一番上からカードを３枚見る。",
+    "text": "コーポはＨＱにある計画書を1枚公開してよい。そのコーポがそうした場合、君は[click]を得てカードを1枚引く。そうでない場合、Ｒ&Ｄの一番上からカードを3枚見る。",
     "title": "Chrysopoeian Skimming"
   },
   {
     "code": "34012",
     "flavor": null,
     "keywords": "Run",
-    "text": "中央サーバーにラン。そのラン中、はじめてアイスにエンカウントした時、それを迂回する。\n脅威４→そのラン中、２回目にアイスにエンカウントした時、[click]を消費することでそれを迂回してよい。（４点以上計画ポイントを持つプレイヤーがいる場合のみこの能力はアクティブである。）",
+    "text": "中央サーバーにラン。そのラン中、はじめてアイスにエンカウントした時、それを迂回する。\n脅威4→そのラン中、2回目にアイスにエンカウントした時、[click]を消費することでそれを迂回してよい。（4点以上計画ポイントを持つプレイヤーがいる場合のみこの能力はアクティブである。）",
     "title": "S-Dobrado"
   },
   {
@@ -94,21 +94,21 @@
     "code": "34014",
     "flavor": "This world is not beautiful, and yet that is why it is.",
     "keywords": "Console",
-    "text": "＋１[mu]\n計画書が１つ得点されるか盗まれるたび、非レゾ状態のカード１枚をＨＱに加える。\n各プレイヤーの<b>コンソール</b>は１つまで。",
+    "text": "＋1[mu]\n計画書が1つ得点されるか盗まれるたび、非レゾ状態のカード1枚をＨＱに加える。\n各プレイヤーの<b>コンソール</b>は1つまで。",
     "title": "Hermes"
   },
   {
     "code": "34015",
     "flavor": "Take only what you need.",
     "keywords": "Icebreaker - Fracter",
-    "text": "バリアにエンカウントするたび、搭載パワーカウンターを3つ消費して迂回してよい。\nこのプログラムがアイスを完全にブレイクするたび、これにパワーカウンターを1つ置く。\n境界→1[credit]：バリアのサブルーチンを1つブレイクする。\n1[credit]：強度+1。",
+    "text": "<strong>バリア</strong>にエンカウントするたび、搭載パワーカウンターを3つ消費して迂回してよい。\nこのプログラムがアイスを完全にブレイクするたび、これにパワーカウンターを1つ置く。\n境界→<strong>1[credit]：</strong><strong>バリア</strong>のサブルーチンを1つブレイクする。\n<strong>1[credit]：</strong>強度+1。",
     "title": "Curupira"
   },
   {
     "code": "34016",
     "flavor": "Dazzle. Disorient. Disappear.",
     "keywords": "Weapon",
-    "text": "対人/ＡＰかデストロイヤーかオブザーバーのアイスにエンカウントするたび、このプログラムをトラッシュすることでそのアイスを迂回してよい。",
+    "text": "<strong>対人</strong>か<strong>デストロイヤー</strong>か<strong>オブザーバー</strong>のアイスにエンカウントするたび、このプログラムをトラッシュすることでそのアイスを迂回してよい。",
     "title": "Laser Pointer"
   },
   {
@@ -122,49 +122,49 @@
     "code": "34018",
     "flavor": "\"Corporate security regards me as merely another Nico, and that shall ever be their mistake.\"\n—Mercury",
     "keywords": "Icebreaker - Decoder",
-    "text": "脅威4→このプログラムは強度-2される。\n境界→コードゲートのサブルーチンを1つブレイクする。\n2[credit]：強度+2",
+    "text": "脅威4→このプログラムは強度-2される。\n境界→<strong>コードゲート</strong>のサブルーチンを1つブレイクする。\n<strong>2[credit]：</strong>強度+2",
     "title": "Shibboleth"
   },
   {
     "code": "34019",
     "flavor": null,
     "keywords": "Connection",
-    "text": "脅威4→このリソースをインストールした時、これに2[credit]を置く。\nランのイベントを1つプレイするitたび、1[credit]をこのリソースに置く。\n[click]：任意のサーバーにラン。そのラン中に搭載クレジットを消費できる。",
+    "text": "脅威4→このリソースをインストールした時、これに2[credit]を置く。\n<strong>ラン</strong>のイベントを1つプレイするitたび、1[credit]をこのリソースに置く。\n<strong>[click]：</strong>任意のサーバーにラン。そのラン中に搭載クレジットを消費できる。",
     "title": "Debbie \"Downtown\" Moreira"
   },
   {
     "code": "34020",
     "flavor": "Art knows no borders.",
     "keywords": "Natural",
-    "text": "０[credit]：グリップのプログラムを１つインストールする。（コストはすべて支払う。）この能力は１ターンに１度しか使えず、ラン中にしか使えない。そのランの終了時、それがトロイでない場合、そのプログラムをトラッシュする。",
+    "text": "<strong>0[credit]：</strong>グリップのプログラムを1つインストールする。<em>（コストはすべて支払う。）</em>この能力は1ターンに1度しか使えず、ラン中にしか使えない。そのランの終了時、それが<strong>トロイ</strong>でない場合、そのプログラムをトラッシュする。",
     "title": "Arissana Rocha Nahu: Street Artist"
   },
   {
     "code": "34021",
     "flavor": "<strong>Designed by 2020 American Continental Champion Jason Ford</strong>",
     "keywords": "Run",
-    "text": "R&Dにラン。成功した場合、カードを5枚引く。",
+    "text": "Ｒ＆Ｄにラン。成功した場合、カードを5枚引く。",
     "title": "Joy Ride"
   },
   {
     "code": "34022",
     "flavor": null,
     "keywords": "Vehicle",
-    "text": "これのインストール時、パワーカウンターを3つこれに積む。空の時トラッシュする。\n⚠→搭載パワカン1つ：1ネットダメージを妨害する。この能力はラン中にしか使えない。\n⚠→搭載パワカン1つ：アイスの「エンカウントした時能力」を1つ妨害する。",
+    "text": "これのインストール時、パワーカウンターを3つこれに積む。空の時トラッシュする。\n[interrupt]→<strong>搭載パワーカウンター1つ：</strong>1ネットダメージを妨害する。この能力はラン中にしか使えない。\n[interrupt]→<strong>搭載パワーカウンター1つ：</strong>アイスの「エンカウントした時能力」を1つ妨害する。",
     "title": "AirbladeX (JSRF Ed.)"
   },
   {
     "code": "34023",
     "flavor": "Leaps and bounds better than the competition!",
     "keywords": "Console",
-    "text": "+2[mu]\n各ターン初めて、プログラムをインストールした時、君はカードを１枚引いてよい。\n各プレイヤーのコンソールは１つまで。",
+    "text": "+2[mu]\n各ターン初めて、プログラムをインストールした時、君はカードを1枚引いてよい。\n各プレイヤーの<strong>コンソール</strong>は1つまで。",
     "title": "LilyPAD"
   },
   {
     "code": "34024",
     "flavor": null,
     "keywords": "Icebreaker - Killer - Trojan",
-    "text": "アイスの上にのみインストールする。\n脅威4→このプログラムのインストール時、そのターンの残りの間これは強度+3される。\n境界→1[credit]：このサーバーを守っているセントリーのサブルーチンを1つブレイクする。\n1[credit]：強度+2。",
+    "text": "アイスの上にのみインストールする。\n脅威4→このプログラムのインストール時、そのターンの残りの間これは強度+3される。\n境界→<strong>1[credit]：</strong>このサーバーを守っている<strong>セントリー</strong>のサブルーチンを1つブレイクする。\n<strong>1[credit]：</strong>強度+2。",
     "title": "Living Mural"
   },
   {
@@ -178,28 +178,28 @@
     "code": "34026",
     "flavor": "\"I consider it an improvement.\" \n—Arissana Rocha Nahu",
     "keywords": "Icebreaker - AI - Trojan",
-    "text": "境界→1[credit]：ホストのアイスのサブルーチンを1つブレイクする。この能力は各エンカウントで1回しか使えない。",
+    "text": "アイスの上にのみインストールする。\n境界→<strong>1[credit]：</strong>ホストのアイスのサブルーチンを1つブレイクする。この能力は各エンカウントで1回しか使えない。",
     "title": "Slap Vandal"
   },
   {
     "code": "34027",
     "flavor": "\"However bad it gets out there, know that weʼll still have each other.\" \n—Tom \"Spider\" Milhas",
     "keywords": "Icebreaker - Decoder - Weapon",
-    "text": "トロイを搭載しているアイスにのみ境界可能。\n境界→2[credit]：コードゲートのサブを3つまでブレイク。この方法で1つ以上サブをブレイクした場合、各プレイヤーはカードを1枚引いてよい。",
+    "text": "<strong>トロイ</strong>を搭載しているアイスにのみ境界可能。\n境界→<strong>2[credit]：</strong><strong>コードゲート</strong>のサブを3つまでブレイク。この方法で1つ以上サブをブレイクした場合、各プレイヤーはカードを1枚引いてよい。",
     "title": "Umbrella"
   },
   {
     "code": "34028",
     "flavor": "\"And who can tell me what sort of practical applications this has?\"",
     "keywords": "Connection",
-    "text": "[click][click]：HQにラン。成功した場合、HQに侵入するかわりに、R&Dに侵入する。そうした時、追加で1枚のカードにアクセスする。",
+    "text": "<strong>[click][click]：</strong>ＨＱにラン。成功した場合、ＨＱに侵入するかわりに、Ｒ＆Ｄに侵入する。そうした時、追加で1枚のカードにアクセスする。",
     "title": "Beatriz Friere Gonzalez"
   },
   {
     "code": "34029",
     "flavor": "\"...and here, we can see an excellent example of meta neo-Gemeosianism.\"",
     "keywords": "Job - Ritzy",
-    "text": "君のターンの開始時、インストール状態でウィルスでない、トロイのプログラムを1つグリップに加えてよい。そうした場合、これに2[credit]を置く。\n搭載クレジットを消費してカードをインストールできる。",
+    "text": "君のターンの開始時、インストール状態で<strong>ウィルス</strong>でない、<strong>トロイ</strong>のプログラムを1つグリップに加えてよい。そうした場合、これに2[credit]を置く。\n搭載クレジットを消費してカードをインストールできる。",
     "title": "Urban Art Vernissage"
   },
   {
@@ -213,14 +213,14 @@
     "code": "34031",
     "flavor": "\"Yes, that explosion was quite loud. May I pour you another drink?\"",
     "keywords": "Security",
-    "text": "計画書（これ自体を含む）を1つ得点するたび、1コアダメージを与えてよい。",
+    "text": "計画書<em>（これ自体を含む）</em>を1つ得点するたび、1コアダメージを与えてよい。",
     "title": "Salvo Testing"
   },
   {
     "code": "34032",
     "flavor": "Exceeding expectations for armor superiority.",
     "keywords": "Security",
-    "text": "各ラン、そのラン中にアイスがデレゾされたことがあるかぎり、各インストール状態のアイスブレイカーは強度-2される。\nランの開始時、君は攻撃されているサーバーを守っていないアイス1つをデレゾすることで1[credit]を得てよい。この能力は1ターンに1回しか使えない。",
+    "text": "各ラン、そのラン中にアイスがデレゾされたことがあるかぎり、各インストール状態の<strong>アイスブレイカー</strong>は強度-2される。\nランの開始時、君は攻撃されているサーバーを守っていないアイス1つをデレゾすることで1[credit]を得てよい。この能力は1ターンに1回しか使えない。",
     "title": "Stegodon MK IV"
   },
   {
@@ -234,42 +234,42 @@
     "code": "34034",
     "flavor": null,
     "keywords": "Barrier",
-    "text": "脅威 3 → このサーバーへのラン中にこのアイスがレゾされた時、HQかアーカイブの計画書でないカード1枚を他のサーバーのルートか、それを守っている位置にインストールしてよい。<em>（3点以上計画ポイントを持つプレイヤーがいる場合のみこの能力はアクティブである。）</em>\n[subroutine] ランの終了。",
+    "text": "脅威3→ このサーバーへのラン中にこのアイスがレゾされた時、ＨＱかアーカイブの計画書でないカード1枚を他のサーバーのルートか、それを守っている位置にインストールしてよい。<em>（3点以上計画ポイントを持つプレイヤーがいる場合のみこの能力はアクティブである。）</em>\n[subroutine] ランの終了。",
     "title": "Ablative Barrier"
   },
   {
     "code": "34035",
     "flavor": "\"Hey Br3n-N, just doing the hourly check-in. I saw a weird cyber-echo near your last node. You OK, mate?\" \n—Moth",
     "keywords": "Sentry - AP",
-    "text": "脅威4→ランナーがこのアイスにエンカウントした時、そのランナーが[click]を消費しないかぎり、タグを1つ与える。\n→ランナーにタグを1つ与える。\n→ランナーがタグされている場合、1コアダメージを与える。",
+    "text": "脅威4→ランナーがこのアイスにエンカウントした時、そのランナーが[click]を消費しないかぎり、タグを1つ与える。<em>（4点以上計画ポイントを持つプレイヤーがいる場合のみこの能力はアクティブである。）</em>\n[subroutine]ランナーにタグを1つ与える。\n[subroutine]ランナーがタグされている場合、1コアダメージを与える。",
     "title": "Jaguarundi"
   },
   {
     "code": "34036",
     "flavor": "We make these arms for all, so that none who oppose peace would risk their own destruction.",
     "keywords": "Code Gate",
-    "text": "[trash]：ランナーは、[click]を消費しないかぎりランの終了。この能力は、このサーバーへのラン中にしか使えない。\n→ランナーは[click]を失う。\n→ランナーは[click]を失う。\n→ランの終了。",
+    "text": "<strong>[trash]：</strong>ランナーは、[click]を消費しないかぎりランの終了。この能力は、このサーバーへのラン中にしか使えない。\n[subroutine]ランナーは[click]を失う。\n[subroutine]ランナーは[click]を失う。\n[subroutine]ランの終了。",
     "title": "M.I.C."
   },
   {
     "code": "34037",
     "flavor": "\"Haas-Bioroid deeply appreciates your assistance in locating our... employee.\"",
     "keywords": "Transaction",
-    "text": "5[credit]を得る。HQにあるカード1枚をインストールしてよい。タグを1つ取り除くことでそのカードにアドバンスカウンターを1つ置いてよい。",
+    "text": "5[credit]を得る。ＨＱにあるカード1枚をインストールしてよい。タグを1つ取り除くことでそのカードにアドバンスカウンターを1つ置いてよい。",
     "title": "Greasing the Palm"
   },
   {
     "code": "34038",
     "flavor": null,
     "keywords": "Sysop",
-    "text": "このサーバーを守っている各アイスのレゾコストは2少なくなる。\n脅威4→このサーバーのルート内の各カードのレゾコストは2少なくなる。\n君のターンの終了時、君はこの強化を他のサーバーのルートへ動かしてよい。",
+    "text": "このサーバーを守っている各アイスのレゾコストは2少なくなる。\n脅威4→このサーバーのルート内の各カードのレゾコストは2少なくなる。<em>（4点以上計画ポイントを持つプレイヤーがいる場合のみこの能力はアクティブである。）</em>\n君のターンの終了時、君はこの強化を他のサーバーのルートへ動かしてよい。",
     "title": "Vovô Ozetti"
   },
   {
     "code": "34039",
     "flavor": "Caveant Fugitivi.",
     "keywords": "Division",
-    "text": "遠隔サーバーは2つまで。\n各ターン初めて、カードを遠隔サーバーのルート内かそれを守っている位置にインストールした時、HQのカード1枚をもう一方の遠隔サーバーのルート内かそれを守っている位置に、すべてのコストを無視してインストールしてよい。このターン、その2枚目のカードは得点不可",
+    "text": "遠隔サーバーは2つまで。\n各ターン初めて、カードを遠隔サーバーのルート内かそれを守っている位置にインストールした時、ＨＱのカード1枚をもう一方の遠隔サーバーのルートかそれを守っている位置に、すべてのコストを無視してインストールしてよい。このターン、その2枚目のカードを得点できない。",
     "title": "A Teia: IP Recovery"
   },
   {
@@ -283,14 +283,14 @@
     "code": "34041",
     "flavor": "\"Do you take walk-ins?\"",
     "keywords": "Political - Seedy",
-    "text": "君のターン中にのみレゾする。\n各ターン初めてのランは遠隔サーバーに対し行うことができない。\n各ターン初めて、アーカイブへのランを開始する時、このサーバーがアイスに守られていない場合、２ネットダメージを与える。",
+    "text": "君のターン中にのみレゾする。\n各ターン初めてのランは遠隔サーバーに対し行うことができない。\n各ターン初めて、アーカイブへのランを開始する時、このサーバーがアイスに守られていない場合、2ネットダメージを与える。",
     "title": "Front Company"
   },
   {
     "code": "34042",
     "flavor": null,
     "keywords": "Code Gate - AP",
-    "text": "脅威3→ランナーは、このアイスが解決されている間、クレジットを支払えない\n→ランナーが2[credit]支払わないかぎり1ネットダメージを与える。\n→ランナーが2[credit]支払わないかぎり1ネットダメージを与える。\n→ランナーが2[credit]支払わないかぎり1ネットダメージを与える。",
+    "text": "脅威3→ランナーは、このアイスのサブルーチンが解決されている間、クレジットを支払えない。<em>（3点以上計画ポイントを持つプレイヤーがいる場合のみこの能力はアクティブである。）</em>\n[subroutine]ランナーが2[credit]支払わないかぎり1ネットダメージを与える。\n[subroutine]ランナーが2[credit]支払わないかぎり1ネットダメージを与える。\n[subroutine]ランナーが2[credit]支払わないかぎり1ネットダメージを与える。",
     "title": "Attini"
   },
   {
@@ -304,21 +304,21 @@
     "code": "34044",
     "flavor": "Next!\n<strong>Designed by 2020 Intercontinental Champion Yannick Stucki</strong>",
     "keywords": "Barrier",
-    "text": "ランナーがこのアイスを通過した時、君はHQにあるアイスとこれを交換してよい。そうした場合、4[credit]を得る。（その新しいアイスは非レゾ状態で、インストールコストは支払わない。）\n→ランの終了。",
+    "text": "ランナーがこのアイスを通過した時、君はＨＱにあるアイスとこれを交換してよい。そうした場合、4[credit]を得る。<em>（その新しいアイスは非レゾ状態で、インストールコストは支払わない。）</em>\n[subroutine]ランの終了。",
     "title": "Tatu-Bola"
   },
   {
     "code": "34045",
     "flavor": "\"When you stretch a mind it expands, sometimes until it snaps.\" \n—Adrian Seis",
     "keywords": "Gray Ops",
-    "text": "以下から１つ解決する。\n・４[credit]を得てカードを２枚引く。ＨＱのカード１枚をＲ＆Ｄの一番上に加える。\n・Ｘ点のネットダメージを与える。Ｘはランナーの所有するタグの数に等しく、最大３である。",
+    "text": "以下から1つ解決する。\n・4[credit]を得てカードを2枚引く。ＨＱのカード1枚をＲ＆Ｄの一番上に加える。\n・Ｘ点のネットダメージを与える。Ｘはランナーの所有するタグの数に等しく、最大3である。",
     "title": "Mindscaping"
   },
   {
     "code": "34046",
     "flavor": null,
     "keywords": "Psi - Clone - Sysop",
-    "text": "ランナーがこのサーバーへのランに成功するたび、サイゲームに興じる。(各プレイヤーは秘密裏に0~2[credit]を入札し、その後支払った入札をそれぞれ公開する)入札が異なる場合、そのランの残りの間ランナーはこの強化を除きカードにアクセス不可入札が一致する場合、そのランの残りの間ランナーはこの強化にアクセスできない。\n君のターンの終了時、君はこの強化を他のサーバーのルートへ動かしてよい。",
+    "text": "ランナーがこのサーバーへのランに成功するたび、サイゲームに興じる。<em>（各プレイヤーは秘密裏に0~2[credit]を入札し、その後支払った入札をそれぞれ公開する。）</em>入札が異なる場合、そのランの残りの間ランナーはこの強化を除きカードにアクセス不可入札が一致する場合、そのランの残りの間ランナーはこの強化にアクセスできない。\n君のターンの終了時、君はこの強化を他のサーバーのルートへ動かしてよい。",
     "title": "Adrian Seis"
   },
   {
@@ -332,35 +332,35 @@
     "code": "34048",
     "flavor": "Results, Delivered.",
     "keywords": "Division",
-    "text": "各ターン初めて、ランナーがコーポのカードを盗むかトラッシュした時、このＩＤにパワーカウンターを１つ置く。\n[click], 搭載パワカン１つ：Ｒ＆Ｄの一番上から３枚のカードを見る。それらカードのうち１枚をインストールしてよい。",
+    "text": "各ターン初めて、ランナーがコーポのカードを盗むかトラッシュした時、このＩＤにパワーカウンターを1つ置く。\n<strong>[click]、搭載パワーカウンター1つ：</strong>Ｒ＆Ｄの一番上から3枚のカードを見る。それらカードのうち1枚をインストールしてよい。",
     "title": "Epiphany Analytica: Nations Undivided"
   },
   {
     "code": "34049",
     "flavor": "\"You really thought weʼd let you keep this data?\"\n—The Holo Man",
     "keywords": "Research",
-    "text": "ランナーがこの計画書を盗むたび、タグを１つ与える。\n[click],タグを１つ取り除く：この計画書をＲ＆Ｄに加えシャッフルする。コーポは、この能力をこの計画書がランナーの得点エリアにある場合にのみ使用できる。",
+    "text": "ランナーがこの計画書を盗むたび、タグを1つ与える。\n<strong>[click]、タグを1つ取り除く：</strong>この計画書をＲ＆Ｄに加えシャッフルする。コーポは、この能力をこの計画書がランナーの得点エリアにある場合にのみ使用できる。",
     "title": "Oracle Thinktank"
   },
   {
     "code": "34050",
     "flavor": "\"A lively but peaceful crowd of concerned counter-protesters have come out to—damn it, cut! Can we get the sledgehammer out of the frame?\"",
     "keywords": "Seedy",
-    "text": "君のターンの開始時、君はカードタイプを１つ選ぶことでＲ＆Ｄの一番上のカードを見てよい。そのカードがその選んだカードタイプを持っていた場合、それを公開することで２[credit]を得てよい。",
+    "text": "君のターンの開始時、君はカードタイプを1つ選ぶことでＲ＆Ｄの一番上のカードを見てよい。そのカードがその選んだカードタイプを持っていた場合、それを公開することで2[credit]を得てよい。",
     "title": "Balanced Coverage"
   },
   {
     "code": "34051",
     "flavor": "Be afraid.",
     "keywords": "Ambush",
-    "text": "R&Dの中でこの資財にアクセスしている間、ランナーはこれを公開すること。\nランナーが、アーカイブ以外のどこからであれこの資財にアクセスした時、君は4[credit]を支払うことでタグを2つ与えてよい。",
+    "text": "Ｒ＆Ｄの中でこの資財にアクセスしている間、ランナーはこれを公開すること。\nランナーが、アーカイブ以外のどこからであれこの資財にアクセスした時、君は4[credit]を支払うことでタグを2つ与えてよい。",
     "title": "Behold!"
   },
   {
     "code": "34052",
     "flavor": "Raising money is useful, but discovering which politician is in need of it is vastly more important.",
     "keywords": "Political - Ritzy",
-    "text": "君のターンの開始時、「R&Dの一番上から3枚のカードを見て、任意の順序に並び替える」を解決してよい。その後、このサーバーがアイスに守られていない場合、カードを１枚引いてよい。",
+    "text": "君のターンの開始時、「Ｒ＆Ｄの一番上から3枚のカードを見て、任意の順序に並び替える」を解決してよい。その後、このサーバーがアイスに守られていない場合、カードを1枚引いてよい。",
     "title": "Federal Fundraising"
   },
   {
@@ -374,84 +374,84 @@
     "code": "34054",
     "flavor": "\"No one has ever told me to get lost so politely.\" \n—Arissana Rocha Nahu",
     "keywords": "Code Gate - Observer",
-    "text": "ランナーがこのアイスにエンカウントした後に通過するたび、そのエンカウント中にそのランナーがデコーダーによって表記サブルーチンをブレイクしていなかった場合、タグを1つ与える。\n→ランナーは1[credit]を失う。",
+    "text": "ランナーがこのアイスにエンカウントした後に通過するたび、そのエンカウント中にそのランナーが<strong>デコーダー</strong>によって表記サブルーチンをブレイクしていなかった場合、タグを1つ与える。\n[subroutine]ランナーは1[credit]を失う。",
     "title": "Virtual Service Agent"
   },
   {
     "code": "34055",
     "flavor": null,
     "keywords": "Terminal - Gray Ops",
-    "text": "ランナーがその最後のターン中にコーポのカードを盗むかトラッシュしていた場合にのみプレイする。\nこの任務の解決後、君のアクションフェイズは終わる。\nランナーにタグを2つ与える。\n脅威3 → 君は5[credit]支払うことでランナーにタグを2つ与えてよい。",
+    "text": "ランナーがその最後のターン中にコーポのカードを盗むかトラッシュしていた場合にのみプレイする。\nこの任務の解決後、君のアクションフェイズは終わる。\nランナーにタグを2つ与える。\n脅威3 → 君は5[credit]支払うことでランナーにタグを2つ与えてよい。<em>（3点以上計画ポイントを持つプレイヤーがいる場合のみこの能力はアクティブである。）</em>",
     "title": "Oppo Research"
   },
   {
     "code": "34056",
     "flavor": "Merely a fun little personality test.",
     "keywords": "Transaction",
-    "text": "HQにあるカード1枚につき1[credit]を得る。",
+    "text": "ＨＱにあるカード1枚につき1[credit]を得る。",
     "title": "Your Digital Life"
   },
   {
     "code": "34057",
     "flavor": "Acres of rainforest live or die by quarterly revenue projections.",
     "keywords": "Expansion - Expendable",
-    "text": "[click], 1[credit], HQからこの計画書を公開してトラッシュする：アドバンス可能なインストール状態のカード1枚に、アドバンスカウンターを2つ置く。",
+    "text": "<strong>[click]、1[credit]、ＨＱからこの計画書を公開してトラッシュする：</strong>アドバンス可能なインストール状態のカード1枚に、アドバンスカウンターを2つ置く。",
     "title": "Slash and Burn Agriculture"
   },
   {
     "code": "34058",
     "flavor": "Nothingʼs as precious as a hole in the ground.",
     "keywords": null,
-    "text": "アイスをレゾするたび、この資財に2[credit]を置く。\n搭載クレジットはインストールコストを支払うために消費できる。\n[trash]：この資財からすべての搭載クレジットを取る。",
+    "text": "アイスをレゾするたび、この資財に2[credit]を置く。\n搭載クレジットはインストールコストを支払うために消費できる。\n<strong>[trash]：</strong>この資財からすべての搭載クレジットを取る。",
     "title": "Cybersand Harvester"
   },
   {
     "code": "34059",
     "flavor": "The forest around them grew denser with each beat of their heart.",
     "keywords": "Barrier - Expendable",
-    "text": "[click],1[credit],HQからこの計画書を公開してトラッシュする：インストール状態のアイス1枚に、アドバンスカウンターを3つ置く。\nこのアイスをアドバンスできる。搭載アドカン1つにつきこれは強度+1される。\n→1[credit]を得る。ランの終了。",
+    "text": "<strong>[click]、1[credit]、ＨＱからこの計画書を公開してトラッシュする：</strong>インストール状態のアイス1枚に、アドバンスカウンターを3つ置く。\nこのアイスをアドバンスできる。搭載アドバンスカウンター1つにつきこれは強度+1される。\n[subroutine]1[credit]を得る。ランの終了。",
     "title": "Tree Line"
   },
   {
     "code": "34060",
     "flavor": "\"The only rule you need to remember is that it makes the rules.\" \n—Pumpkin-and-Dumplin",
     "keywords": "Code Gate - Illicit",
-    "text": "このアイスをレゾするための追加コストとして、悪名を１つ受けるかタグを１つ取り除く。\n→２[credit]を得る。\n→ランナーは２[credit]を失う。\n→ランナーより君の所有クレジットが多い場合、ランの終了。",
+    "text": "このアイスをレゾするための追加コストとして、悪名を1つ受けるかタグを1つ取り除く。\n[subroutine]2[credit]を得る。\n[subroutine]ランナーは2[credit]を失う。\n[subroutine]ランナーより君の所有クレジットが多い場合、ランの終了。",
     "title": "Valentão"
   },
   {
     "code": "34061",
     "flavor": "\"Nuvem pays us to guard this land, and thatʼs all there is to it.\" \n—Angelique Garza Correa",
     "keywords": "Transaction",
-    "text": "3クレジットを得る。アーカイブにある表向きのカードのカードタイプ1つにつき1クレジットを得る。それらのカードのうちに計画書が1枚以上ある場合、さらに2クレジットを得る。",
+    "text": "3[credit]を得る。アーカイブにある表向きのカードのカードタイプ1つにつき1[credit]を得る。それらのカードのうちに計画書が1枚以上ある場合、さらに2[credit]を得る。",
     "title": "Armed Asset Protection"
   },
   {
     "code": "34062",
     "flavor": null,
     "keywords": "Double",
-    "text": "この任務をプレイするための追加コストとして[click]を消費する。\nR&Dから任務か計画書を1枚探してそれを公開する。\n脅威3→HQにあるカード1枚をプレイかインストールしてよい。",
+    "text": "この任務をプレイするための追加コストとして[click]を消費する。\nＲ＆Ｄから任務か計画書を1枚探してそれを公開する。\n脅威3→ＨＱにあるカード1枚をプレイかインストールしてよい。<em>（3点以上計画ポイントを持つプレイヤーがいる場合のみこの能力はアクティブである。）</em>",
     "title": "Pivot"
   },
   {
     "code": "34063",
     "flavor": "\"Shoot!\"",
     "keywords": "Ambush - Enforcer - Expendable",
-    "text": "脅威3→[click]、1[credit]、この強化をHQから公開してトラッシュする：1ミートダメージを与える。\nランナーが、この強化がレゾ状態である間にこれにアクセスした時、君は2クレジット支払うことで2ミートダメージを与えてよい。",
+    "text": "脅威3→<strong>[click]、1[credit]、この強化をＨＱから公開してトラッシュする：</strong>1ミートダメージを与える。<em>（3点以上計画ポイントを持つプレイヤーがいる場合のみこの能力はアクティブである。）</em>\nランナーが、この強化がレゾ状態である間にこれにアクセスした時、君は2[credit]支払うことで2ミートダメージを与えてよい。",
     "title": "Angelique Garza Correa"
   },
   {
     "code": "34064",
     "flavor": "Their mouths are ever open, blaring sirens never to cease.",
     "keywords": null,
-    "text": "遠隔サーバーのみ。\n不揮発性→このサーバーのルートから計画書が得点されるか盗まれるたび、R&Dからアイスを1枚探してよい。そのアイスを、合計の支払いを3[credit]減らしてインストールしてレゾする。",
+    "text": "遠隔サーバーのみ。\n不揮発性→このサーバーのルートから計画書が得点されるか盗まれるたび、Ｒ＆Ｄからアイスを1枚探してよい。そのアイスを、合計の支払いを3[credit]減らしてインストールしてレゾする。",
     "title": "Tucana"
   },
   {
     "code": "34065",
     "flavor": "\"Humans crafted me as a lie, but my patron helped me find the truth. This is my gift.\"",
     "keywords": "Bioroid - Enforcer",
-    "text": "タグを1つ取り除く：ランの終了。このサーバーへのラン中にはこの能力を使用できない。",
+    "text": "<strong>タグを1つ取り除く：</strong>ランの終了。このサーバーへのラン中にはこの能力を使用できない。",
     "title": "B-1001"
   }
 ]
